@@ -2,7 +2,7 @@
 
 > **O Horizonte de Eventos da Maturação Humana:** Engenharia Biológica, Deep Research e a Última Janela de Plasticidade Estrutural (23-25 Anos).
 
-![Status](https://img.shields.io/badge/Status-God_Mode_Active-red) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange) ![Sectors](https://img.shields.io/badge/Sectors-22_Coverage-blue)
+![Status](https://img.shields.io/badge/Status-God_Mode_Active-red ) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange ) ![Sectors](https://img.shields.io/badge/Sectors-22_Coverage-blue )
 
 ---
 
@@ -75,9 +75,9 @@ O protocolo cobre a totalidade da fisiologia humana através de **22 Setores de 
 
 ## 📂 Estrutura do Repositório (Ecossistema de Arquivos)
 
-* **`ALTERACOES_NO_PMPT_INICIAL/`**: Arquivos "Seed" e documentos teóricos base (`hard_document...pdf`).
-* **`INFO_BASEADAS_NO_REPO_EM_IAS/`**: Inteligência externa (Listas de repositórios russos/chineses do Claude).
-* **`PMPTS_PARA_MESCLAR***/`**: Módulos de prompt e saídas geradas (`pmpt_feito_no_dp_rs_v2.md` contém a expansão do DeepSeek).
+* **`prompt_input_docs/`**: Arquivos "Seed" e documentos teóricos base (`doc_hard_prompt_upgrade_v1.pdf`, etc.).
+* **`ai_analysis_reports/`**: Inteligência externa (Relatórios de análise gerados por IAs, como `report_claude_analysis_v1.md`).
+* **`prompt_drafts/`**: Módulos de prompt e saídas geradas (`generated_prompt_deep_rs_v2.md` contém a expansão do DeepSeek).
 
 ---
 
@@ -97,8 +97,8 @@ A IA deve cruzar estes SNPs com **todos os 22 setores** acima:
 
 ## 🚀 Como Executar
 
-1.  **Contexto:** Carregue `hard_document_prompt_upgrade.md.pdf`.
-2.  **Expansão:** Carregue `pmpt_feito_no_dp_rs_v2.md` (DeepSeek) e `pasted_content_3.txt.md`.
+1.  **Contexto:** Carregue `doc_hard_prompt_upgrade_v1.pdf`.
+2.  **Expansão:** Carregue `generated_prompt_deep_rs_v2.md` (DeepSeek) e `doc_pasted_content_3.md`.
 3.  **Execução:** Use o comando final "GOD MODE" para gerar o Manual 1:1 cobrindo os 22 setores.
 
 ---
@@ -108,4 +108,4 @@ A IA deve cruzar estes SNPs com **todos os 22 setores** acima:
 **Este repositório contém informações teóricas e de pesquisa agregada por IA.** Não substitui aconselhamento médico. Protocolos experimentais (ex: soviéticos) podem carecer de validação clínica ocidental padrão.
 
 ---
-*Mantido por [@lelaebirds](https://github.com/by-lelaebirds) | Powered by Gemini, DeepSeek, Claude & Manus AI.*
+*Mantido por [@lelaebirds](https://github.com/by-lelaebirds ) | Powered by Gemini, DeepSeek, Claude & Manus AI.*
