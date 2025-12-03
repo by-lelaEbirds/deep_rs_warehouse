@@ -1,4 +1,4 @@
-aqui, eu enviei ao Manus AI os seguintes arquivos em anexo: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/draft_prompt_2.md, https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_2.txt.md e https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_3.txt.md
+aqui, eu enviei ao Manus AI os seguintes arquivos em anexo: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/draft_prompt_2.md, https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_pasted_content_2.md e https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_pasted_content_3.md
 
 e mandei o seguinte prompt:
 
@@ -20,4 +20,4 @@ Protocolo Genera (SNPs): Detalhamento dos SNPs adicionais (COMT, BDNF, VDR, CLOC
 Comando de Execução Final (God Mode): Um comando final consolidado e explícito para garantir que a IA realize a pesquisa com a máxima profundidade e entregue as duas versões do relatório (Técnica e Interpretada).
 Por favor, utilize este arquivo para a formulação final do seu prompt na outra IA. Se precisar de qualquer detalhe adicional ou tiver dúvidas sobre o conteúdo, estou à disposição.
 
-e me enviou o arquivo que ele fez, que é esse desse link: https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/Aprimoramento_do_Prompt_Terminal_Optimization_Vers%C3%A3o_Absoluta_para_Deep_Research.pdf
+e me enviou o arquivo que ele fez, que é esse desse link: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_prompt_absolute_optimization.pdf
