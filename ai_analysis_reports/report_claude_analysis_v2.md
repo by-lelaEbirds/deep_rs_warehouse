@@ -1,5 +1,5 @@
 
-Enviei esse prompt ao Claude AI: verifique esse meu repositório: https://github.com/by-lelaEbirds/DeepRS.git
+Enviei esse prompt ao Claude AI: verifique esse meu repositório: https://github.com/by-lelaEbirds/deep_rs_warehouse.git
 incremente melhores, com isso quero pedir que você leia, interprete e compreenda todo o repositório em escala 1:1, isso é, interprete todos os arquivos dentro de cada pasta e subpasta etc e tal.
 
 Com isso, faça um super prompt, que visa dar mais dados relevantes para ajudar na pesquisa do deep research, continue vasculhando por fontes da internet cinzenta, gere um documento completo e coeso e semanticamente organizado. Gere um prompt baseado em todo o repo, esse prompt irá fazer parte do repo mais tarde e também será usado para alimentar a máquina do deep research. Seja coeso
