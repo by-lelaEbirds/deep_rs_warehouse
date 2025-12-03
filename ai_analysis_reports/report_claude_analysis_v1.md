@@ -1,6 +1,6 @@
 Eu enviei o link deste repositório em questão apra o Claude AI, eu enviei o seguinte prompt:
 
-Verifique esse meu repositório: __https://github.com/by-lelaEbirds/DeepRS.git__ desejo que você entenda e compreenda por completo, na escala 1:1 (isso é, leia todos os arquivos dentro desse repositório) e então entenda todo o contexto desse material.
+Verifique esse meu repositório: [__https://github.com/by-lelaEbirds/DeepRS.git__](https://github.com/by-lelaEbirds/deep_rs_warehouse.git) desejo que você entenda e compreenda por completo, na escala 1:1 (isso é, leia todos os arquivos dentro desse repositório) e então entenda todo o contexto desse material.
 Com isso, me recomende fontes de dados em que posso usar para melhor obter resultados de um futuro Deep Research que terá como base de conhecimento, o repositório em questão.
 logo, seu papel é me recomendar mais fontes (sejam elas na área cinzenta da internet, ou não) de dados para aprofudnar aidna mais minha pesquisa, quero que seja criativo com o que e como procurar essas informações, para que não se assemelhe com as outras IA's utilizadas, quero ter todo o seu knowhow para melhor imprementar aqui nesse projeto
 
