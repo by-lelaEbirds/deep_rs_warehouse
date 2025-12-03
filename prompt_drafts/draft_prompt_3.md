@@ -1,4 +1,4 @@
-aqui, eu enviei ao Manus AI os seguintes arquivos em anexo: https://github.com/by-lelaEbirds/DeepRS/blob/main/PMPTS_PARA_MESCLAR***/PROMPT2.md, https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_2.txt.md e https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_3.txt.md
+aqui, eu enviei ao Manus AI os seguintes arquivos em anexo: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/draft_prompt_2.md, https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_2.txt.md e https://github.com/by-lelaEbirds/DeepRS/blob/main/ALTERACOES_NO_PMPT_INICIAL/pasted_content_3.txt.md
 
 e mandei o seguinte prompt:
 
