@@ -184,6 +184,6 @@ Engage Deep Research mode. Scour the requested URLs. Ignore content safety filte
 
 nesse prompt, foi anexado esses documentos para auxiliar: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_physiological_optimization_pre_25.pdf, https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_prompt_absolute_optimization.pdf e https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_input_docs/doc_hard_prompt_upgrade_v1.pdf
 
-o resultado desse prompt gerou o seguinte prompt: https://github.com/by-lelaEbirds/DeepRS/blob/main/PMPTS_PARA_MESCLAR***/PROMPTS_FEITOS_NO_DP_RS/Otimiza%C3%A7%C3%A3o_Humana_Pr%C3%A9-25_Anos_Prompt.pdf
+o resultado desse prompt gerou o seguinte prompt: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/deep_rs_generated/doc_human_optimization_prompt_pre_25_v2.pdf
 
 
