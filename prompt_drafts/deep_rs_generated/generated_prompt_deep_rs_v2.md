@@ -1,4 +1,4 @@
-abaixo, há mais informações para complementar o documento do link https://github.com/by-lelaEbirds/DeepRS/blob/main/PMPTS_PARA_MESCLAR***/PROMPTS_FEITOS_NO_DP_RS/Otimiza%C3%A7%C3%A3o_Humana_Pr%C3%A9-25_Anos_Prompt.pdf
+abaixo, há mais informações para complementar o documento do link https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/deep_rs_generated/doc_human_optimization_prompt_pre_25_v2.pdf
 
 eu usei o deep seek v3.2 aqui com o seguinte prompt:
 
