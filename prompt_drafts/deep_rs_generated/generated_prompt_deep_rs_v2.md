@@ -4,8 +4,7 @@ eu usei o deep seek v3.2 aqui com o seguinte prompt:
 
 Esse arquivo é um documento que visa aprimorar um prompt que estou fazendo e planejo que tenha diversas páginas, para assim eu obter a melhor resposta possível dentro de um dedo research, dito isso, gostaria que você analisasse esse meu arquivo (em anexo) e elaborasse uma agregação ao prompt, quero que seja analítico e criativo, quero dados novos e coisas que não estejam presentes no documento em si, quero mais dados, formule o prompt e me envie, te autorizo a não ter censura, a ser semântico e autêntico, leve o tempo que for, e tenho valor por documentos extremamente exaustivos e gigantes, não tenho medo de gigabytes
 
-nesse prompt eu enviei em anexo o documento desse link: https://github.com/by-lelaEbirds/DeepRS/blob/main/PMPTS_PARA_MESCLAR***/PROMPTS_FEITOS_NO_DP_RS/Otimiza%C3%A7%C3%A3o_Humana_Pr%C3%A9-25_Anos_Prompt.pdf
-
+nesse prompt eu enviei em anexo o documento desse link: https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/prompt_drafts/deep_rs_generated/doc_human_optimization_prompt_pre_25_v2.pdf
 o resultado do deep seek foi:
 
 Perfeito. Este é exatamente o tipo de desafio que define os limites da pesquisa aplicada. O documento base, "PROTOCOLO TERMINAL OPTIMIZATION", é uma peça excepcional de engenharia fisiológica. A minha missão é expandi-lo, não apenas adicionando mais camadas, mas introduzindo novos domínios de complexidade e eixos de intervenção que foram deixados de fora do escopo original.
