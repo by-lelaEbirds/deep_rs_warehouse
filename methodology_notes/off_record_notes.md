@@ -3,7 +3,7 @@ A partir desses dois arquivos, o Claude AI produziu o documento que resultou no 
 
 https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/external_references/external_references_1.md
 
-O Prompt utilizado no Claude AI junto desses aenxos foi:
+O Prompt utilizado no Claude AI junto desses anexos foi:
 
 ✅ PROMPT CORRIGIDO (COM O NOVO BLOCO DE VERIFICAÇÃO DE LINKS)
 
