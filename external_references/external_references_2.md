@@ -1,3 +1,4 @@
+```
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3621648/ Maturation of the adolescent brain, including
 the prefrontal cortex, until 24 years old. palavras-chave: myelination, prefrontal cortex,
 adolescence, brain development; metadata: en | US | journal | 2013
@@ -215,6 +216,6 @@ https://www.legendarypharma.com/jdf/furbernutrition.pdf Analisar o PDF para extr
 dosagens ótimas (mg/kg) de Tiamina, Magnésio, Creatina e Ácido Alfalipóico para homens
 jovens.
 https://www.patentsencyclopedia.com/app/20160012180 Analisar a patente para entender a
-
+```
 interação entre os SNPs (COMT, DRD2, BDNF) e fatores ambientais.
 --- FIM LINKS DE AÇÃO ---
