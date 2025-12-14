@@ -1,8 +1,8 @@
-# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.1)
+# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.2)
 
 > **O Horizonte de Eventos da Maturação Humana:** Engenharia Biológica, Deep Research e a Última Janela de Plasticidade Estrutural (23-25 Anos).
 
-![Status](https://img.shields.io/badge/Status-God_Mode_Active-red ) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange ) ![Sectors](https://img.shields.io/badge/Sectors-22_Coverage-blue ) ![Methodology](https://img.shields.io/badge/Methodology-Triple_Verification-blueviolet ) ![Depth](https://img.shields.io/badge/Depth-5_Levels_of_Analysis-yellow )
+![Status](https://img.shields.io/badge/Status-God_Mode_Active-red) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange) ![Sectors](https://img.shields.io/badge/Sectors-22_Coverage-blue) ![Methodology](https://img.shields.io/badge/Methodology-Triple_Verification-blueviolet) ![Depth](https://img.shields.io/badge/Depth-5_Levels_of_Analysis-yellow)
 
 ---
 
@@ -33,9 +33,9 @@ O DeepRS emprega uma **Ciência de Sistemas** orquestrada por múltiplos Large L
 | Agente / IA | Função no Ecossistema DeepRS | Documentos Chave Gerados |
 | :--- | :--- | :--- |
 | **Gemini 3.0 Pro** | Motor inicial e estruturação lógica macro. Organização de conhecimento Ocidental padrão. | *Documentos de Rascunho Iniciais* |
-| **Manus AI** | Consolidação de "Hard Documents", refinamento semântico e validação de SNPs. Geração do **Data-Warehouse** e do **Super Prompt Consolidado**. | `doc_hard_prompt_upgrade_v2.md` |
-| **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras: Literatura Cinzenta Russa, Chinesa, Bases Militares Soviéticas. | `report_claude_analysis_v1.md`, `report_claude_analysis_v2.md` |
-| **DeepSeek v3** | Expansão lateral criativa: Microbioma, Fáscia, Biofísica. Conexões interdisciplinares não-óbvias. | `generated_prompt_deep_rs_v2.md` (Módulo de Expansão) |
+| **Manus AI Pro** | **[MOTOR PRINCIPAL]** Consolidação de "Hard Documents", refinamento semântico, validação de SNPs, análise de repositórios em escala 1:1, e geração do **Data-Warehouse** e do **Super Prompt Consolidado**. | `doc_hard_prompt_upgrade_v2.md`, `external_references_3.md` |
+| **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras: Literatura Cinzenta Russa, Chinesa, Bases Militares Soviéticas. | `report_claude_analysis_v1.md`, `report_claude_analysis_v2.md`, `external_references_1.md` |
+| **DeepSeek v3.2** | Expansão lateral criativa: Microbioma, Fáscia, Biofísica. Conexões interdisciplinares não-óbvias. | `generated_prompt_deep_rs_v2.md` (Módulo de Expansão) |
 
 ### Protocolo de Tríplice Verificação
 
@@ -131,12 +131,12 @@ O repositório está dividido entre o branch principal (`main`) e o branch de tr
 
 | Pasta | Arquivo | Descrição | Autoria da IA |
 | :--- | :--- | :--- | :--- |
-| `prompt_input_docs/` | `doc_hard_prompt_upgrade_v2.md` | Documento Hard (Super Prompt Consolidado) que define a metodologia GOD MODE e a análise dos SNPs críticos. | **Manus AI** |
+| `prompt_input_docs/` | `doc_hard_prompt_upgrade_v2.md` | Documento Hard (Super Prompt Consolidado) que define a metodologia GOD MODE e a análise dos SNPs críticos. | **Manus AI Pro** |
 | `ai_analysis_reports/` | `report_claude_analysis_v1.md` | Relatório de inteligência externa, focado em fontes de dados estratégicas (Literatura Cinzenta Russa/Soviética, Asiática, Genômica). | **Claude 3.5 Sonnet** |
 | `ai_analysis_reports/` | `report_claude_analysis_v2.md` | Relatório de inteligência externa, focado na tese do "Horizonte de Eventos Biológico" e na Tríplice Verificação. | **Claude 3.5 Sonnet** |
 | `prompt_drafts/deep_rs_generated/` | `generated_prompt_deep_rs_v2.md` | Módulo de Expansão para o prompt principal, adicionando Cronobiologia Avançada, Biofísica da Fáscia, Microbioma e NLRP3. | **DeepSeek v3.2** |
-| `external_references/` | `external_references_2.txt` | Lista de referências científicas (65 URLs) geradas para o Data-Warehouse. | **Manus AI** (Confirmado pelo conteúdo) |
-| `external_references/` | `external_references_1.md` | Lista de referências científicas (94 URLs) com metadados. | **Não Especificada (Deep Research)** |
+| `external_references/` | `external_references_1.md` | Lista de referências científicas (94 URLs) com metadados. | **Claude 3.5 Sonnet** (Confirmado pelo `off_record_notes.md`) |
+| `external_references/` | `external_references_2.txt` | Lista de referências científicas (65 URLs) geradas para o Data-Warehouse. | **Manus AI Pro** (Confirmado pelo conteúdo) |
 | `external_references/` | `external_references_3.md` | Lista de referências científicas (150 URLs) geradas via Processamento Paralelo. | **Manus AI Pro** (Confirmado pelo `off_record_notes2.md`) |
 | *Outros arquivos* | *Vários* | Documentos de entrada, rascunhos ou saídas de outras IAs. | **Não Especificada** |
 
@@ -146,21 +146,23 @@ Este branch contém a documentação do processo de geração do Data-Warehouse.
 
 | Pasta | Arquivo | Descrição | Autoria da IA |
 | :--- | :--- | :--- | :--- |
-| `methodology_notes/` | `off_record_notes.md` | Documentação do processo de geração do `external_references_1.md` (94 URLs). | **Claude 3.5 Sonnet** |
-| `methodology_notes/` | `off_record_notes2.md` | Documentação do processo de geração do `external_references_3.md` (150 URLs) via Processamento Paralelo. | **Manus AI Pro** |
+| `methodology_notes/` | `off_record_notes.md` | Documentação do processo de geração do `external_references_1.md`. | **Claude 3.5 Sonnet** |
+| `methodology_notes/` | `off_record_notes2.md` | Documentação do processo de geração do `external_references_3.md`. | **Manus AI Pro** |
+
+**Link Direto para o Branch de Metodologia:**
+[https://github.com/by-lelaEbirds/deep_rs_warehouse/tree/off_record](https://github.com/by-lelaEbirds/deep_rs_warehouse/tree/off_record)
 
 ---
 
-## 🚨 Relatório de Inconsistências e Sugestões de Coesão
+## 🚀 Como Usar Este Repositório para Deep Research
 
-A análise 1:1 de ambos os branches revelou as seguintes inconsistências e oportunidades de melhoria para a coesão do projeto:
+Para obter os melhores resultados, siga este fluxo de trabalho:
 
-| Inconsistência / Sugestão | Localização | Detalhe | Ação Recomendada |
-| :--- | :--- | :--- | :--- |
-| **Autoria de `external_references_2.txt`** | `main/external_references/` | O arquivo foi confirmado como sendo gerado pelo **Manus AI** (padrão), mas a autoria não estava explícita no `README.md` anterior. | **RESOLVIDO:** Autoria atualizada no `README.md` para **Manus AI**. |
-| **Inconsistência de Nomenclatura** | `off_record/methodology_notes/` | O arquivo `off_record_notes2.md` está no branch `off_record`, mas o arquivo original `off_record_notes.md` (que documenta o `external_references_1.md`) também está lá. | **SUGESTÃO:** Manter a nomenclatura, mas garantir que o `README.md` principal aponte para o branch `off_record` como o local da **Documentação de Metodologia**. |
-| **Autoria de `external_references_1.md`** | `main/external_references/` | A autoria deste arquivo (94 URLs) ainda está como **Não Especificada** no `README.md`. | **AÇÃO PENDENTE:** O `off_record_notes.md` (que documenta a geração) deve ser lido para confirmar se a autoria é do **Claude 3.5 Sonnet** (hipótese baseada no `off_record_notes2.md`). |
-| **Estrutura de Arquivos** | `main/` | O branch `main` contém apenas os *outputs* (referências, relatórios, prompts de entrada). | **SUGESTÃO:** Criar um link direto no `README.md` para o branch `off_record` para que as IAs tenham acesso imediato à **Metodologia de Geração** (os "bastidores"). |
+1. **Comece pelo `README.md` (este arquivo)**: Ele serve como o índice principal e a fonte da verdade sobre a estrutura e metodologia do projeto.
+2. **Acesse o Branch de Metodologia (`off_record`)**: Para entender *como* os warehouses de referências foram gerados, consulte os arquivos em `methodology_notes/`. Isso fornecerá o contexto completo sobre os prompts e processos utilizados.
+3. **Utilize os Documentos de Entrada**: Para um novo Deep Research, use `doc_hard_prompt_upgrade_v2.md` como o prompt base.
+4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md`, `external_references_2.txt` e `external_references_3.md` como a base de conhecimento validada.
+5. **Use Manus AI Pro como Motor Principal**: Para garantir a análise em escala 1:1 e a exaustão semântica.
 
 ---
 
@@ -169,4 +171,7 @@ A análise 1:1 de ambos os branches revelou as seguintes inconsistências e opor
 **Este repositório contém informações teóricas e de pesquisa agregada por IA.** O conteúdo é o resultado de uma análise exaustiva da literatura global, mas **não substitui aconselhamento médico, diagnóstico ou tratamento**. Protocolos experimentais (ex: soviéticos) podem carecer de validação clínica ocidental padrão.
 
 ---
-*Mantido por [@lelaebirds](https://github.com/by-lelaebirds ) | Powered by Gemini, DeepSeek, Claude & Manus AI.*
+
+*Mantido por [@lelaebirds](https://github.com/by-lelaebirds) | Powered by Manus AI Pro, Claude 3.5 Sonnet, DeepSeek v3.2 & Gemini 3.0 Pro.*
+
+Última atualização: Dezembro 2025 | Versão: 2.2 | Status: Ativo* Ativo*
