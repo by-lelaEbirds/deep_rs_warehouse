@@ -18,7 +18,7 @@ Assim como o `off_record_notes.md` original documenta o processo de geração do
 | **Tempo de Geração** | ~2-3 horas | ~1 hora (paralelo) |
 | **Validação de Links** | Manual (Claude) | Automatizada + Manual |
 | **Cobertura Temática** | 22 setores (geral) | 22 setores (aprofundado) |
-| **Formato de Entrada** | README.md + consolidated_prompt.txt | README.md + external_references_1.md + external_references_2.txt |
+| **Formato de Entrada** | README.md + consolidated_prompt.txt | README.md + external_references_1.md + external_references_2.md |
 | **Deduplicação** | Não aplicada | Aplicada (0 sobreposições) |
 | **Diversidade de Fontes** | PubMed, Nature, ScienceDirect | PubMed (45%), Nature (10%), ScienceDirect (8%), Outras (37%) |
 | **Qualidade de Citações** | Média 200-300 citações | Média 400-500 citações |
@@ -44,7 +44,7 @@ Lelae Birds (@by-lelaEbirds)
 > - Esse arquivo deve conter: 150 URLs únicas, URLs funcionando (sem erros 404/403), URLs não repetidas dos outros arquivos, URLs relevantes com o objetivo do projeto, URLs que tragam conteúdo diverso e significativo"
 
 ### Contexto Estratégico
-O projeto DeepRS havia acumulado **159 URLs validadas** em dois arquivos (`external_references_1.md` com 94 URLs e `external_references_2.txt` com 65 URLs). A necessidade era **expandir significativamente** o warehouse com **150 URLs adicionais**, mantendo:
+O projeto DeepRS havia acumulado **159 URLs validadas** em dois arquivos (`external_references_1.md` com 94 URLs e `external_references_2.md` com 65 URLs). A necessidade era **expandir significativamente** o warehouse com **150 URLs adicionais**, mantendo:
 - ✅ Relevância temática (22 setores)
 - ✅ Qualidade acadêmica
 - ✅ Diversidade de fontes
@@ -76,7 +76,7 @@ git checkout main        # Análise do branch principal
 #### 1.3 Extração de URLs Existentes
 ```bash
 grep "^https://" external_references_1.md | cut -d' ' -f1 | sort > existing_urls_1.txt
-grep "^https://" external_references_2.txt | cut -d' ' -f1 | sort > existing_urls_2.txt
+grep "^https://" external_references_2.md | cut -d' ' -f1 | sort > existing_urls_2.txt
 cat existing_urls_1.txt existing_urls_2.txt | sort -u > existing_urls_clean.txt
 # Total: 159 URLs únicas
 ```
