@@ -1,4 +1,4 @@
-# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.2)
+# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.3)
 
 > **O Horizonte de Eventos da Maturação Humana:** Engenharia Biológica, Deep Research e a Última Janela de Plasticidade Estrutural (23-25 Anos).
 
@@ -140,6 +140,8 @@ O repositório está dividido entre o branch principal (`main`) e o branch de tr
 | `external_references/` | `external_references_3.md` | Lista de referências científicas (150 URLs) geradas via Processamento Paralelo. | **Manus AI Pro** (Confirmado pelo `off_record_notes2.md`) |
 | *Outros arquivos* | *Vários* | Documentos de entrada, rascunhos ou saídas de outras IAs. | **Não Especificada** |
 
+> **⚠️ Nota de Otimização Estrutural:** O arquivo `external_references_2` foi permanentemente migrado do formato `.txt` para `.md`. Esta alteração estrutural foi implementada para **ativar a funcionalidade de hiperlinks clicáveis** e melhorar a navegabilidade dos dados brutos, favorecendo a eficiência do Deep Research.
+
 ### 2. Branch de Metodologia (`off_record`)
 
 Este branch contém a documentação do processo de geração do Data-Warehouse.
@@ -161,7 +163,7 @@ Para obter os melhores resultados, siga este fluxo de trabalho:
 1. **Comece pelo `README.md` (este arquivo)**: Ele serve como o índice principal e a fonte da verdade sobre a estrutura e metodologia do projeto.
 2. **Acesse o Branch de Metodologia (`off_record`)**: Para entender *como* os warehouses de referências foram gerados, consulte os arquivos em `methodology_notes/`. Isso fornecerá o contexto completo sobre os prompts e processos utilizados.
 3. **Utilize os Documentos de Entrada**: Para um novo Deep Research, use `doc_hard_prompt_upgrade_v2.md` como o prompt base.
-4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md`, `external_references_2.md` e `external_references_3.md` como a base de conhecimento validada.
+4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md`, `external_references_2.md` e `external_references_3.md` como a base de conhecimento validada (agora totalmente otimizada com links ativos).
 5. **Use Manus AI Pro como Motor Principal**: Para garantir a análise em escala 1:1 e a exaustão semântica.
 
 ---
@@ -174,4 +176,4 @@ Para obter os melhores resultados, siga este fluxo de trabalho:
 
 *Mantido por [@lelaebirds](https://github.com/by-lelaebirds) | Powered by Manus AI Pro, Claude 3.5 Sonnet, DeepSeek v3.2 & Gemini 3.0 Pro.*
 
-Última atualização: Dezembro 2025 | Versão: 2.2 | Status: Ativo* Ativo*
+*Última atualização: Dezembro 2025 | Versão: 2.3 | Status: Ativo*
