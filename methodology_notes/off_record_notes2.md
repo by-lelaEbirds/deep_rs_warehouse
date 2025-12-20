@@ -161,7 +161,7 @@ comm -12 new_urls.txt existing_urls_sorted.txt
 ```
 
 #### 3.3 Remoção de Duplicatas
-- Removidas 6 URLs que se sobrepunham com external_references_1.md e external_references_2.txt
+- Removidas 6 URLs que se sobrepunham com external_references_1.md e external_references_2.md
 - Removida 1 URL duplicada internamente
 - **Total removido**: 7 URLs
 - **URLs restantes**: 138
@@ -444,7 +444,7 @@ Cada um dos 22 setores holônicos foi coberto com URLs específicas, garantindo 
 - [x] 150 URLs coletadas
 - [x] 0 duplicatas internas
 - [x] 0 sobreposições com external_references_1.md
-- [x] 0 sobreposições com external_references_2.txt
+- [x] 0 sobreposições com external_references_2.md
 - [x] 100% de URLs testadas e funcionais
 - [x] Formato consistente com arquivos existentes
 - [x] Cobertura de todos os 22 setores
@@ -490,7 +490,7 @@ Se for necessário criar um quarto arquivo de referências:
 - `README.md`: Visão geral do projeto DeepRS
 - `doc_hard_prompt_upgrade_v2.md`: Metodologia GOD MODE
 - `external_references_1.md`: Warehouse original (94 URLs)
-- `external_references_2.txt`: Warehouse complementar (65 URLs)
+- `external_references_2.md`: Warehouse complementar (65 URLs)
 - `external_references_3.md`: Warehouse expandido (150 URLs)
 - `off_record_notes.md`: Background do external_references_1.md
 
