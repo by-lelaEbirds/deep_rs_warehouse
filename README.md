@@ -136,7 +136,7 @@ O repositório está dividido entre o branch principal (`main`) e o branch de tr
 | `ai_analysis_reports/` | `report_claude_analysis_v2.md` | Relatório de inteligência externa, focado na tese do "Horizonte de Eventos Biológico" e na Tríplice Verificação. | **Claude 3.5 Sonnet** |
 | `prompt_drafts/deep_rs_generated/` | `generated_prompt_deep_rs_v2.md` | Módulo de Expansão para o prompt principal, adicionando Cronobiologia Avançada, Biofísica da Fáscia, Microbioma e NLRP3. | **DeepSeek v3.2** |
 | `external_references/` | `external_references_1.md` | Lista de referências científicas (94 URLs) com metadados. | **Claude 3.5 Sonnet** (Confirmado pelo `off_record_notes.md`) |
-| `external_references/` | `external_references_2.txt` | Lista de referências científicas (65 URLs) geradas para o Data-Warehouse. | **Manus AI Pro** (Confirmado pelo conteúdo) |
+| `external_references/` | `external_references_2.md` | Lista de referências científicas (65 URLs) geradas para o Data-Warehouse. | **Manus AI Pro** (Confirmado pelo conteúdo) |
 | `external_references/` | `external_references_3.md` | Lista de referências científicas (150 URLs) geradas via Processamento Paralelo. | **Manus AI Pro** (Confirmado pelo `off_record_notes2.md`) |
 | *Outros arquivos* | *Vários* | Documentos de entrada, rascunhos ou saídas de outras IAs. | **Não Especificada** |
 
@@ -161,7 +161,7 @@ Para obter os melhores resultados, siga este fluxo de trabalho:
 1. **Comece pelo `README.md` (este arquivo)**: Ele serve como o índice principal e a fonte da verdade sobre a estrutura e metodologia do projeto.
 2. **Acesse o Branch de Metodologia (`off_record`)**: Para entender *como* os warehouses de referências foram gerados, consulte os arquivos em `methodology_notes/`. Isso fornecerá o contexto completo sobre os prompts e processos utilizados.
 3. **Utilize os Documentos de Entrada**: Para um novo Deep Research, use `doc_hard_prompt_upgrade_v2.md` como o prompt base.
-4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md`, `external_references_2.txt` e `external_references_3.md` como a base de conhecimento validada.
+4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md`, `external_references_2.md` e `external_references_3.md` como a base de conhecimento validada.
 5. **Use Manus AI Pro como Motor Principal**: Para garantir a análise em escala 1:1 e a exaustão semântica.
 
 ---
