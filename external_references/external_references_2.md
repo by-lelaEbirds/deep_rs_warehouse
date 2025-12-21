@@ -1,7 +1,13 @@
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3621648/ Maturation of the adolescent brain, including the prefrontal cortex, until 24 years old. palavras-chave: myelination, prefrontal cortex, adolescence, brain development; metadata: en | US | journal | 2013
+
+
 https://www.nature.com/articles/s41386-021-01137-9 Structural development of the prefrontal cortex, a meticulous and protracted process. palavras-chave: prefrontal cortex, development, plasticity, maturation; metadata: en | US | journal | 2022
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8290169/ Methods of assessing myelination and effects of age in major fiber tracts. palavras-chave: myelination, white matter, age, brain development; metadata: en | US | journal | 2021
+
+
 https://www.pnas.org/doi/10.1073/pnas.1009073107 Significant structural changes in cerebral white matter beyond 24 months of age. palavras-chave: white matter, maturation, structural connectivity, brain development; metadata: en-US | US | journal | 2010
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8763242/ Role of GABAergic interneurons in early brain development and cortical activity. palavras-chave: GABAergic interneurons, brain development, cortical maturation, inhibition; metadata: en | US | journal | 2022
 https://www.sciencedirect.com/science/article/pii/S089662731300055X Contribution of GABAergic interneurons to the functional maturation of the cortex. palavras-chave: GABAergic interneurons, cortical maturation, plasticity, inhibition; metadata: en | US | journal | 2013
