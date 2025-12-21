@@ -9,62 +9,175 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8290169/ Methods of assessing myelinati
 
 
 https://www.pnas.org/doi/10.1073/pnas.1009073107 Significant structural changes in cerebral white matter beyond 24 months of age. palavras-chave: white matter, maturation, structural connectivity, brain development; metadata: en-US | US | journal | 2010
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8763242/ Role of GABAergic interneurons in early brain development and cortical activity. palavras-chave: GABAergic interneurons, brain development, cortical maturation, inhibition; metadata: en | US | journal | 2022
+
+
 https://www.sciencedirect.com/science/article/pii/S089662731300055X Contribution of GABAergic interneurons to the functional maturation of the cortex. palavras-chave: GABAergic interneurons, cortical maturation, plasticity, inhibition; metadata: en | US | journal | 2013
+
+
 https://www.onlinelibrary.wiley.com/doi/10.1155/2012/892784 Regulation of cortical function and plasticity by inhibitory interneurons throughout different ages. palavras-chave: GABA, interneurons, cortical plasticity, brain development; metadata: en | US | journal | 2012
+
+
 https://www.researchgate.net/publication/271505196_Effectiveness_of_n-back_cognitive_training_quantitative_and_qualitative_aspects Effectiveness of n-back cognitive training on fluid intelligence. palavras-chave: n-back, cognitive training, fluid intelligence, working memory; metadata: en | US | conference-paper | 2015
+
+
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151817 Randomized comparison of dual n-back working memory training to processing speed training in healthy adults. palavras-chave: dual n-back, working memory, cognitive training, healthy adults; metadata: en | US | journal | 2016
+
+
 https://www.pnas.org/doi/abs/10.1073/pnas.1102999108 Ingestion of Lactobacillus rhamnosus (JB-1) regulates emotional behavior and central GABA receptor expression via the vagus nerve. palavras-chave: Lactobacillus rhamnosus, GABA, vagus nerve, psychobiotic; metadata: en | US | journal | 2011
+
+
 https://www.nature.com/articles/tp2016191 Bifidobacterium longum 1714 as a translational psychobiotic, modulating stress, electrophysiology and neurocognition. palavras-chave: Bifidobacterium longum, psychobiotic, stress, memory; metadata: en | US | journal | 2016
+
+
 https://www.mdpi.com/2073-4409/12/4/657 Mechanisms of blood-brain barrier protection by microbiota-derived short-chain fatty acids. palavras-chave: short-chain fatty acids, blood-brain barrier, microbiota, butyrate; metadata: en | CH | journal | 2023
+
+
 https://www.sciencedirect.com/science/article/abs/pii/S1344622320300699 Computed tomographic analysis of medial clavicular epiphyseal fusion for age estimation in young adults. palavras-chave: clavicle, epiphyseal fusion, forensic age estimation, young adults; metadata: en | JP | journal | 2020
+
+
 https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2010.01089.x Bayesian approach to age estimation using the medial clavicular epiphysis. palavras-chave: clavicle, age estimation, forensic, Bayesian; metadata: en | US | journal | 2010
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6901695/ Position Statement: Exercise Guidelines to Increase Peak Bone Mass in young adults. palavras-chave: peak bone mass, resistance exercise, young adults, guidelines; metadata: en | KR | journal | 2019
-https://journals.lww.com/md-journal/fulltext/2020/02070/maximal_muscle_strength_and_body_composition_are.38.aspx High-load resistance training for increasing peak bone mass prior to age-related bone loss. palavras-chave: high-load training, peak bone mass, young men, resistance training; metadata: en | US | journal | 2020
+
+
+https://journals.lww.com/md-journal/fulltext/2020/02070/maximal_muscle_strength_and_body_composition_are.38.aspx High-load resistance training for increasing peak bone mass prior to age-related bone loss. palavras-chave: high-load training, peak bone mass, young men, 
+resistance training; metadata: en | US | journal | 2020
+
+
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/1556-4029.13285 Apophyseal ossification of the iliac crest in forensic age estimation. palavras-chave: iliac crest, apophyseal ossification, forensic age estimation; metadata: en | US | journal | 2017
+
+
 https://khavinson.info/assets/files/skan/2004-anisimov_khav.pdf Elucidation of the effect of brain cortex tetrapeptide Cortagen on gene expression in mouse heart by microarray. palavras-chave: Cortagen, gene expression, microarray, Khavinson; metadata: en | RU | journal | 2004
+
+
 https://www.researchgate.net/profile/Oleg-Granstrem/publication/228801050_Modulatory_Effects_of_Cortexin_and_Cortagen_on_Locomotor_Activity_and_Anxiety-Related_Behavior_in_Mice/links/0c9605178aa748beaa000000/Modulatory-Effects-of-Cortexin-and-Cortagen-on-Locomotor-Activity-and-Anxiety-Related-Behavior-in-Mice.pdf Modulatory Effects of Cortexin and Cortagen on Locomotor Activity and Anxiety-Related Behavior in Mice. palavras-chave: Cortagen, locomotor activity, anxiety, mice; metadata: en | IT | journal | 2009
+
+
 https://karger.com/books/book/chapter-pdf/2091776/000085316.pdf Effect of Peptides (Vilon, Cortagen) on Chromosomes. palavras-chave: Vilon, Cortagen, chromosomes, epigenetics; metadata: en | CH | book-chapter | 2005
+
+
 https://khavinson.info/assets/files/2013-Khavinson_Kuznik.pdf Peptide Bioregulators: A New Class of Geroprotectors. palavras-chave: peptide bioregulators, geroprotectors, Khavinson, Vilon; metadata: en | RU | review | 2013
+
+
 https://link.springer.com/article/10.1007/s10989-014-9443-7 Epigenetic Regulation of “Aged” Heterochromatin by Peptide Bioregulator Cortagen. palavras-chave: Cortagen, epigenetic regulation, heterochromatin, aging; metadata: en | US | journal | 2014
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/ DunedinPACE, a DNA methylation biomarker of the pace of aging. palavras-chave: DunedinPACE, epigenetic clock, pace of aging, biomarker; metadata: en | US | journal | 2022
+
+
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821609 Sociodemographic and Lifestyle Factors and Epigenetic Aging in US young adults. palavras-chave: epigenetic aging, young adults, lifestyle factors, GrimAge; metadata: en | US | journal | 2024
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8064200/ Potential reversal of epigenetic age using a diet and lifestyle intervention: a pilot randomized clinical trial. palavras-chave: epigenetic age reversal, diet, lifestyle intervention, Horvath clock; metadata: en | US | journal | 2021
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11663988/ Short-Term Intermittent Normobaric Hypoxia Combined with Light Exercise Improves Acclimatization. palavras-chave: intermittent normobaric hypoxia, acclimatization, exercise, young adults; metadata: en | US | journal | 2024
+
+
 https://journals.physiology.org/doi/full/10.1152/japplphysiol.00932.2024 Short bouts of hypoxia improve insulin sensitivity in adults. palavras-chave: intermittent hypoxia, insulin sensitivity, adults, protocol; metadata: en | US | journal | 2025
+
+
 https://www.scitepress.org/Papers/2018/68743/68743.pdf The Experimental Method of Middle Distance Runners Training under Hypoxia. palavras-chave: hypoxic training, middle distance runners, Russian, experimental method; metadata: en | RU | conference-paper | 2018
+
 https://www.researchgate.net/publication/329586673_A_Study_on_Immediate_Effect_of_Buteyko_Breathing_Technique_during_Submaximal_Exercise_on_Cardio-Respiratory_Parameters_in_Young_Adults/links/5c3c0ddc458515a4c7248156/A-Study-on-Immediate-Effect-of-Buteyko-Breathing-Technique-during-Submaximal-Exercise-on-Cardio-Respiratory-Parameters-in-Young-Adults.pdf Immediate Effect of Buteyko Breathing Technique during Submaximal Exercise on Cardio-Respiratory Parameters in Young Adults. palavras-chave: Buteyko, CO2 tolerance, young adults, cardio-respiratory; metadata: en | IN | journal | 2018
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4352123/ The ketone body β-hydroxybutyrate blocks the NLRP3 inflammasome. palavras-chave: BHB, NLRP3, inflammasome, ketone body; metadata: en | US | journal | 2015
+
+
 https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.640253/full In vitro Fermentation Reveals Changes in Butyrate Production Dependent on Resistant Starch Source and Microbiome Composition. palavras-chave: butyrate, resistant starch, microbiome, fermentation; metadata: en | CH | journal | 2021
+
+
 https://onlinelibrary.wiley.com/doi/abs/10.1111/jsr.14404 Auditory stimulation during deep sleep enhances total slow-wave activity in a young cohort: A feasibility trial. palavras-chave: auditory stimulation, slow-wave sleep, deep sleep, young adults; metadata: en | US | journal | 2024
+
+
 https://jcsm.aasm.org/doi/abs/10.5664/jcsm.9180 Hot-water bathing before bedtime and shorter sleep onset latency are accompanied by a higher distal-proximal skin temperature gradient. palavras-chave: hyperthermic bath, sleep onset, thermoregulation, SWS; metadata: en | US | journal | 2021
+
+
 https://www.mdpi.com/1422-0067/25/8/4483 Unlocking the power of light on the skin: a comprehensive review on photobiomodulation. palavras-chave: photobiomodulation, RL/NIR, bone density, cognitive function; metadata: en | CH | journal | 2024
+
+
 https://www.liebertpub.com/doi/abs/10.1089/photob.2019.4673 Transcranial photobiomodulation improves cognitive performance in young healthy adults: a systematic review and meta-analysis. palavras-chave: transcranial photobiomodulation, cognitive performance, young adults, tPBM; metadata: en | US | journal | 2019
+
+
 https://www.nature.com/articles/s41598-018-21869-x Inhibitory modulation of cytochrome c oxidase activity with near-infrared light. palavras-chave: cytochrome c oxidase, NIR, photobiomodulation, mitochondria; metadata: en | US | journal | 2018
+
+
 https://www.medichecks.com/blogs/testosterone/what-is-a-normal-testosterone-level-for-your-age A guide to normal testosterone levels by age. palavras-chave: testosterone, SHBG, reference range, young men; metadata: en | UK | blog | 2023
+
+
 https://pubmed.ncbi.nlm.nih.gov/36282060/ What Is a Normal Testosterone Level for Young Men? A cohort study. palavras-chave: testosterone, young men, reference range, cohort study; metadata: en | US | journal | 2022
+
+
 https://www.cia.gov/readingroom/docs/CIA-RDP08S01350R000602030003-4.pdf THE MILITARY FOOD RATION IN THE USSR. palavras-chave: soviet military ration, nutrition, USSR, soldier diet; metadata: en | US | report | 1953
+
+
 https://www.hrw.org/reports/2003/russia1103/3.htm THE RIGHT TO ADEQUATE FOOD in the Russian military. palavras-chave: Russian military, nutrition, conscripts, human rights; metadata: en | US | report | 2003
+
+
 https://www.mdpi.com/2072-6643/12/9/2750 Association among adherence to the Mediterranean diet, cardiorespiratory fitness, cardiovascular, obesity, and anthropometric variables. palavras-chave: Mediterranean diet, VO2max, cardiorespiratory fitness, young adults; metadata: en | CH | journal | 2020
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5035520/ COMT, BDNF, and DTNBP1 polymorphisms and cognitive functions. palavras-chave: COMT, BDNF, SNP, cognitive function; metadata: en | BR | journal | 2016
+
+
 https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1038075/full Association between ACTN3 R577x and the physical performance of athletes. palavras-chave: ACTN3, athletic performance, SNP, genetics; metadata: en | CH | journal | 2023
+
+
 https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2016.00588/full Training on working memory and inhibitory control in young adults. palavras-chave: working memory, inhibitory control, cognitive training, young adults; metadata: en | CH | journal | 2016
+
+
 https://www.tandfonline.com/doi/abs/10.1080/13825585.2015.1031723 Age-specific differences of dual n-back training. palavras-chave: dual n-back, cognitive training, age differences, young adults; metadata: en | US | journal | 2015
+
+
 https://pubs.aip.org/asa/jasa/article/121/6/3814/537223 Plasticity in vowel perception and production: A study of accent change in young adults. palavras-chave: accent change, plasticity, speech perception, young adults; metadata: en | US | journal | 2007
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6559801/ A critical period for second language acquisition. palavras-chave: critical period, second language acquisition, age effects, plasticity; metadata: en | US | journal | 2018
+
+
 https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.915241/full Acute effects of strength and endurance training on bone turnover markers in young adults and elderly men. palavras-chave: bone turnover, resistance training, young adults, BMD; metadata: en | CH | journal | 2022
+
+
 https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1512822/full Effects of exercise on bone mass and bone metabolism in adolescents. palavras-chave: bone mass, exercise, adolescents, BMD; metadata: en | CH | journal | 2024
+
+
 https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.843520/full Short Term Isocaloric Ketogenic Diet Modulates NLRP3 Inflammasome Via B-hydroxybutyrate and Fibroblast Growth Factor 21. palavras-chave: ketogenic diet, NLRP3, BHB, FGF21; metadata: en | CH | journal | 2022
+
+
 https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.987216/full The gastrointestinal and microbiome impact of a resistant starch blend. palavras-chave: resistant starch, microbiome, butyrate, GI tolerance; metadata: en | CH | journal | 2022
+
+
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.755958/full Boosting Recovery During Sleep by Means of Auditory Stimulation. palavras-chave: auditory stimulation, sleep, SWS, memory; metadata: en | CH | journal | 2022
+
+
 https://www.nature.com/articles/s41598-024-53839-x Enhanced conductive body heat loss during sleep without affecting sleep quality. palavras-chave: thermoregulation, sleep, SWS, body cooling; metadata: en | US | journal | 2024
+
+
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01129/full Cognitive Enhancement by Transcranial Photobiomodulation. palavras-chave: tPBM, cognitive enhancement, fNIRS, young adults; metadata: en | CH | journal | 2019
+
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7546009/ NIR light-assisted phototherapies for bone-related diseases and bone tissue regeneration. palavras-chave: NIR, phototherapy, bone regeneration, PBM; metadata: en | US | journal | 2020
+
+
 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001388 Role of Circadian Health in Cardiometabolic Health and Disease. palavras-chave: circadian rhythm, cardiometabolic health, sleep, lifestyle; metadata: en | US | journal | 2025
+
+
 https://academic.oup.com/edrv/article/37/6/584/2691715 Circadian Rhythm and Sleep Disruption: Causes, Metabolic Consequences, and Countermeasures. palavras-chave: circadian rhythm, sleep disruption, metabolic consequences, countermeasures; metadata: en | US | journal | 2016
+
+
 https://www.mdpi.com/2072-6643/12/3/776 Association of adherence to specific mediterranean diet components and cardiorespiratory fitness in young adults. palavras-chave: Mediterranean diet, cardiorespiratory fitness, VO2max, young adults; metadata: en | CH | journal | 2020
+
+
 https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2010.00146/full COMT Val158Met Polymorphism Modulates Cognitive Effects of Dietary Intervention. palavras-chave: COMT, Val158Met, dietary intervention, cognitive effects; metadata: en | CH | journal | 2010
+
+
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2462-3 ACTN3 R577X and ACE I/D gene variants influence performance in elite sprinters. palavras-chave: ACTN3, ACE, athletic performance, genetics; metadata: en | UK | journal | 2016
+
 
 --- LINKS DE AÇÃO PARA MANUS AI ---
 https://www.researchgate.net/publication/391812101_FORENSIC_AGE_ESTIMATION_BASED_ON_THE_FUSION_OF_ILIAC_CREST_EPIPHYSIS_ON_PELVIC_X-RAYS Analisar o PDF para extrair o protocolo detalhado de estimativa de idade forense baseado na fusão da epífise da crista ilíaca.
