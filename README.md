@@ -33,7 +33,7 @@ O DeepRS emprega uma **Ciência de Sistemas** orquestrada por múltiplos Large L
 | Agente / IA | Função no Ecossistema DeepRS | Documentos Chave Gerados |
 | :--- | :--- | :--- |
 | **Gemini 3.0 Pro** | Motor inicial e estruturação lógica macro. Organização de conhecimento Ocidental padrão. | *Documentos de Rascunho Iniciais* |
-| **Manus AI (Evolutivo)** | **[MOTOR PRINCIPAL]** Consolidação de "Hard Documents", refinamento semântico, validação de SNPs e geração do Data-Warehouse. *(Ver tabela de versionamento abaixo)*. | `doc_hard_prompt_upgrade_v2.md`, `external_references_2/3/4.md` |
+| **Manus AI (Evolutivo)** | **[MOTOR PRINCIPAL]** Consolidação de "Hard Documents", refinamento semântico e Data-Warehouse. **Evolução:** v1.5 (Fundação) ➔ v1.6 (Atual). | `doc_hard_prompt_upgrade_v2.md`, `external_references_2/3/4.md` |
 | **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras: Literatura Cinzenta Russa, Chinesa, Bases Militares Soviéticas. | `report_claude_analysis_v1/v2.md`, `external_references_1.md` |
 | **DeepSeek v3.2** | Expansão lateral criativa: Microbioma, Fáscia, Biofísica. Conexões interdisciplinares não-óbvias. | `generated_prompt_deep_rs_v2.md` (Módulo de Expansão) |
 
@@ -127,6 +127,8 @@ O **Protocolo Genera** exige uma análise crítica e preditiva dos seguintes Pol
 
 Este repositório é um organismo vivo, evoluindo conforme a atualização dos modelos de IA utilizados. Abaixo, detalha-se a **Cronologia de Geração**, especificando qual versão de arquivo foi gerada por qual agente em cada temporada do projeto.
 
+> **Política de Versionamento:** A partir da Temporada III, todas as contribuições identificam explicitamente a versão do modelo (ex: v1.6, v2.0) para garantir a rastreabilidade histórica e técnica dos dados.
+
 ### 1. Temporada I: Fundação e Reconhecimento (v1.0 - v2.0)
 *Foco: Mapeamento inicial, literatura cinzenta básica e estruturação.*
 
@@ -142,18 +144,18 @@ Este repositório é um organismo vivo, evoluindo conforme a atualização dos m
 
 | Arquivo | Agente Gerador (Versão) | Função Específica |
 | :--- | :--- | :--- |
-| `doc_hard_prompt_upgrade_v2.md` | **Manus AI Pro (Legacy)** | Consolidação do Super Prompt e Lógica "God Mode". |
-| `external_references_2.md` | **Manus AI Pro (Legacy)** | Warehouse focado em Neurobiologia e Ossos. *(Atualizado de .txt para .md)* |
-| `external_references_3.md` | **Manus AI Pro (Legacy)** | Warehouse focado em Processamento Paralelo. |
+| `doc_hard_prompt_upgrade_v2.md` | **Manus AI 1.5** | Consolidação do Super Prompt e Lógica "God Mode". |
+| `external_references_2.md` | **Manus AI 1.5** | Warehouse focado em Neurobiologia e Ossos. *(Atualizado de .txt para .md)* |
+| `external_references_3.md` | **Manus AI 1.5** | Warehouse focado em Processamento Paralelo. |
 | `generated_prompt_deep_rs_v2.md` | **DeepSeek v3.2** | Módulo de Expansão (Microbioma, Fáscia). |
-| `off_record_notes2.md` | **Manus AI Pro (Legacy)** | Metodologia de geração do Warehouse 3. |
+| `off_record_notes2.md` | **Manus AI 1.5** | Metodologia de geração do Warehouse 3. |
 
 ### 3. Temporada III: Refinamento Absoluto e Expansão (v2.3 - Atual)
 *Foco: Atualização do Core da IA, revisão estrutural e novas fronteiras de pesquisa.*
 
 | Arquivo | Agente Gerador (Versão) | Função Específica |
 | :--- | :--- | :--- |
-| `external_references_4.md` | **Manus AI 1.6 (New Core)** | Warehouse de referências expandidas (Versão Atualizada). |
+| `external_references_4.md` | **Manus AI 1.6** | Warehouse de referências expandidas (Nova Adição). |
 | `README.md` (Atual) | **Manus AI 1.6 / Gemini 3.0** | Estruturação semântica, versionamento e manutenção. |
 
 ---
