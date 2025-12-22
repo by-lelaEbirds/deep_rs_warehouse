@@ -6,54 +6,49 @@
 
 ---
 
-## 1. Visão Geral do Projeto: A Otimização Terminal
+## 1. Visão Geral e Princípios Fundacionais
 
-O repositório **DeepRS** (Deep Research System) é um artefato de **Sistemas de Ciência de Dados** que documenta uma operação de pesquisa massiva e automatizada denominada **"Terminal Optimization"**.
+O repositório **DeepRS** (Deep Research System) é um artefato de **Sistemas de Ciência de Dados** que documenta uma operação de pesquisa massiva e automatizada denominada **"Terminal Optimization"**. Ele serve como o **documento central de entendimento** e a **fonte de verdade semântica** para o projeto.
 
-### 1.1. Objetivo Explícito
+### 1.1. Motivação Profunda: O Ponto de Inflexão Biológica
 
-O objetivo central é a **otimização fisiológica, cognitiva e estrutural** do corpo masculino na janela crítica dos **23 aos 25 anos**.
+O projeto é fundado na premissa de que a faixa etária dos **23 aos 25 anos** representa o **"Ponto de Inflexão"** final na maturação biológica masculina. Este período é a última janela de **plasticidade estrutural** e **intervenção otimizada** antes da consolidação definitiva de sistemas críticos, como:
 
-A premissa biológica é que esta faixa etária representa o **"Ponto de Inflexão"** final, a última oportunidade de **intervenção estrutural** antes da consolidação definitiva de sistemas biológicos chave (e.g., fechamento epifisário, mielinização final do Córtex Pré-Frontal - PFC). O projeto visa compilar um **"Manual de Operações" em escala 1:1** para "automatizar a sorte" biológica.
+*   **Neuro-Arquitetura:** Mielinização final do Córtex Pré-Frontal (PFC) e maturação dos sistemas inibitórios (GABA).
+*   **Estrutura Esquelética:** Fusão epifisária tardia (e.g., clavícula medial, crista ilíaca), marcando o fim da aquisição de Pico de Massa Óssea (PBM).
 
-### 1.2. Princípios de Design e Curadoria
+O objetivo é criar um **"Manual de Operações" em escala 1:1** para varrer a literatura global e compilar protocolos que maximizem o potencial fisiológico dentro desta janela temporal.
 
-O projeto é construído sob a filosofia **AI-First**, onde a clareza semântica e a consistência terminológica são prioridades para garantir que agentes de IA possam interagir com o repositório como uma **Fonte de Verdade (Source of Truth)**.
+### 1.2. Princípios de Design (AI-First)
 
-| Princípio | Descrição | Relevância para IAs |
+O repositório foi projetado para ser consumido e mantido por agentes de IA avançados, priorizando a **clareza semântica** e a **consistência terminológica** sobre a estética tradicional de repositórios.
+
+| Princípio | Descrição | Implicação Operacional para IAs |
 | :--- | :--- | :--- |
-| **Análise 1:1** | Todo o conteúdo (prompts, documentos-semente, relatórios) é lido e interpretado integralmente, sem resumos ou inferências livres. | Garante a fidelidade do contexto e a ausência de perda de dados. |
-| **Exaustão Semântica** | Utilização de múltiplos modelos de IA especializados para varrer a literatura global e garantir a máxima cobertura informacional. | Mitiga o viés de um único modelo e aumenta a profundidade da pesquisa. |
-| **Tríplice Verificação** | Busca ativa por fontes em três grandes escolas de pensamento: **Ocidente** (PubMed, Nature), **Rússia/URSS** (Literatura Cinzenta, Peptídeos) e **Ásia/TCM** (Medicina Tradicional Chinesa). | Assegura uma visão holística e não-convencional da fisiologia. |
+| **Análise 1:1** | Leitura e interpretação integral de **todo** o conteúdo (prompts, documentos-semente, relatórios), sem resumos, inferências livres ou abstrações. | O contexto deve ser tratado como literal e completo. Não há perda de informação deliberada. |
+| **Exaustão Semântica** | Utilização de múltiplos LLMs especializados para varrer a literatura e garantir a máxima cobertura informacional. | Mitiga o viés de um único modelo e aumenta a profundidade da pesquisa. |
+| **Tríplice Verificação** | Busca ativa por fontes em três escolas de pensamento: **Ocidente** (PubMed, Nature), **Rússia/URSS** (Literatura Cinzenta, Peptídeos) e **Ásia/TCM** (Medicina Tradicional Chinesa). | Assegura uma visão holística e não-convencional da fisiologia. |
 | **Estrutura Normativa** | O formato de saída dos dados (`external_references`) é rigorosamente padronizado para facilitar o *parsing* e a ingestão automatizada. | Essencial para a extração de dados limpos e a automação de *pipelines* de pesquisa. |
 
 ---
 
-## 2. Metodologia: Orquestração Multi-Modelo e Evolução do Manus AI
+## 2. Escopo e Não-Escopo Explícitos
 
-O projeto é um estudo de caso em **Orquestração de LLMs**, onde cada agente possui uma função especializada. O **Manus AI** atua como o motor de processamento avançado e o orquestrador principal.
+### 2.1. Escopo (O que o projeto aborda)
 
-### 2.1. Colaboração Multi-Modelo
+O projeto aborda a **otimização biológica humana** através de uma abordagem **transversal e interdisciplinar**, cobrindo 22 Setores Holônicos (Seção 3).
 
-| Agente / IA | Função no Ecossistema DeepRS |
-| :--- | :--- |
-| **Gemini 3.0 Pro** | Motor inicial e estruturação lógica macro. |
-| **Manus AI** | Consolidação de "Hard Documents", refinamento semântico, validação de SNPs e **Processamento Paralelo (Wide Research)**. |
-| **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras (Literatura Cinzenta Russa, Chinesa, Bases Militares). |
-| **DeepSeek v3.2** | Expansão lateral criativa (Microbioma, Fáscia, Biofísica). |
+*   **Foco:** Intervenção em sistemas biológicos com plasticidade remanescente na faixa etária de 23-25 anos.
+*   **Natureza da Pesquisa:** Exploratória, profunda, técnica e com tolerância a hipóteses não convencionais.
+*   **Objetivo da Curadoria:** Mapear o máximo de **possibilidades informacionais relevantes** para o desenvolvimento de protocolos de otimização.
 
-### 2.2. Evolução e Regra Permanente do Manus AI
+### 2.2. Não-Escopo (O que o projeto NÃO aborda)
 
-A evolução do Manus AI no projeto define a metodologia de manutenção e expansão do repositório.
+O projeto é um **Data Warehouse de Pesquisa** e não um manual de instruções.
 
-| Versão | Contribuição Principal | Detalhe da Implementação | Arquivos Relacionados |
-| :--- | :--- | :--- | :--- |
-| **Manus AI v1.5** | **Fundação e Processamento Paralelo** | Responsável pela estrutura inicial, consolidação de documentos e introdução do **Wide Research** (30 subtarefas simultâneas) para a geração do `external_references_3.md`. | `off_record_notes.md`, `off_record_notes2.md`, `external_references_1.md`, `external_references_2.md`, `external_references_3.md` |
-| **Manus AI v1.6** | **Paradigma Normativo** | Criação do **Prompt Autoritativo** que estabelece os critérios de curadoria mais rigorosos (validação de links, escopo expandido) para a série `external_references_*.md`. | `external_references_generation_prompt.md`, `external_references_4.md` |
-| **Manus AI v2.0** | **Fiscalização e Autoridade** | Responsável pela análise 1:1 e pela criação deste `README.md` autoritativo, consolidando a história e a metodologia do projeto. | Este `README.md` |
-
-> **REGRA PERMANENTE DE MANUTENÇÃO:**
-> Todo o conteúdo do repositório, **com exceção do `external_references_4.md`**, foi concebido, estruturado ou gerado sob a metodologia e capacidade do **Manus AI v1.5**. O `external_references_4.md` e as futuras expansões seguem o novo paradigma metodológico estabelecido pelo **Manus AI v1.6**.
+*   **Não é Aconselhamento:** As referências **não constituem aconselhamento médico, nutricional ou de treinamento**. A inclusão de um estudo não implica validação ou endosso de suas conclusões.
+*   **Não é Validação:** A curadoria **NÃO visa afirmar verdades** ou refutar o consenso científico. O objetivo é mapear o *estado da arte* e o *estado da fronteira* da pesquisa.
+*   **Não é um Roadmap de Produto:** O repositório documenta a pesquisa, não o desenvolvimento de um produto final.
 
 ---
 
@@ -61,128 +56,116 @@ A evolução do Manus AI no projeto define a metodologia de manutenção e expan
 
 O protocolo cobre a totalidade da fisiologia humana através de **22 Setores de Investigação**, divididos em 4 blocos funcionais.
 
-### 🏛️ Bloco 1: Estrutura Física & Fundação (O Hardware)
-Foco na intervenção estrutural tardia (23-25 anos).
-| # | Setor | Foco Principal | Origem Metodológica |
-|:---|:---|:---|:---|
-| **01** | **Neuro-Arquitetura Final** | Mielinização do PFC & Plasticidade Inibitória (GABA). | *Base* |
-| **02** | **Esqueleto (Last Stand)** | Fusão da Clavícula/Crista Ilíaca e Densidade (PBM). | *Base* |
-| **03** | **Fáscia & Tensegridade** | Matriz Extracelular e Piezoeletricidade Fascial. | *DeepSeek* |
-| **04** | **Cardiovascular** | Expansão Cardíaca ("Coração de Atleta") e VO₂máx. | *Expansão* |
-| **05** | **Hematologia** | Transporte de Oxigênio, EPO, Ferritina e VCM. | *Expansão* |
-
-### ⚡ Bloco 2: Energia, Imunidade & Metabolismo (O Combustível)
-Foco na otimização da eficiência energética e defesa biológica.
-| # | Setor | Foco Principal | Origem Metodológica |
-|:---|:---|:---|:---|
-| **06** | **Endocrinologia** | Eixos Hormonais (Testosterona, GH, IGF-1). | *Base* |
-| **07** | **Microbioma (IGM)** | Engenharia da flora, Psicobióticos e Eixo Intestino-Cérebro. | *DeepSeek* |
-| **08** | **Nutrição de Precisão** | Microdoses (mg/kg) e Densidade Nutricional Militar. | *Expansão* |
-| **09** | **Imunologia (NLRP3)** | Inflamação de Baixo Grau e Inibição do Inflamassoma. | *DeepSeek* |
-| **10** | **Metabolismo & Flexibilidade** | Alternância Glicose/Cetonas e Zona 2. | *Base* |
-| **11** | **Biohacking Global** | Integração de protocolos Russos e TCM. | *Base* |
-
-### 🧬 Bloco 3: Código, Sinalização & Controle (O Software)
-Foco na modulação genética, epigenética e neuroquímica.
-| # | Setor | Foco Principal | Origem Metodológica |
-|:---|:---|:---|:---|
-| **12** | **Genética (Genera)** | Interpretação de SNPs (COMT, BDNF, VDR). | *Base* |
-| **13** | **Epigenética** | Relógios Biológicos (GrimAge, DunedinPACE) e Reversão. | *Expansão* |
-| **14** | **Peptídeos Avançados** | Sinalização Molecular (Khavinson: Cortagen, Vilon). | *Expansão* |
-| **15** | **Neuroquímica** | Receptores Dopaminérgicos e Serotoninérgicos. | *Expansão* |
-| **16** | **Sistema Nervoso (SNA)** | Variabilidade Cardíaca (HRV) e Tônus Vagal. | *Expansão* |
-| **17** | **Psiconeuroimunologia** | Intersecção entre Imunidade e Maturação Cortical. | *Expansão* |
-
-### 🌌 Bloco 4: Dados, Ambiente & Biofísica (O Ecossistema)
-Foco na interação do organismo com o ambiente e a otimização de dados.
-| # | Setor | Foco Principal | Origem Metodológica |
-|:---|:---|:---|:---|
-| **18** | **Cronobiologia Avançada** | Arquitetura do Sono (Onda Lenta) e Ritmos Ultradianos. | *DeepSeek* |
-| **19** | **Biofísica Sutil** | Fotobiomodulação (Luz), EMF e Adaptação Ambiental. | *DeepSeek* |
-| **20** | **Cognição Superior** | Ultra-Aprendizado e Neuroplasticidade baseada em erro. | *Expansão* |
-| **21** | **Biotipos Mediterrâneos** | Adaptações Lipídicas e Inflamatórias Específicas. | *Expansão* |
-| **22** | **Big Data & Evolução** | Bioinformática Preditiva e Psicologia Evolutiva. | *Expansão* |
+| Bloco | Setor | Foco Principal | Origem Metodológica |
+| :--- | :--- | :--- | :--- |
+| **Bloco 1: Hardware** | **01** Neuro-Arquitetura Final | Mielinização do PFC & Plasticidade Inibitória (GABA). | *Base* |
+| | **02** Esqueleto (Last Stand) | Fusão da Clavícula/Crista Ilíaca e Densidade (PBM). | *Base* |
+| | **03** Fáscia & Tensegridade | Matriz Extracelular e Piezoeletricidade Fascial. | *DeepSeek* |
+| | **04** Cardiovascular | Expansão Cardíaca ("Coração de Atleta") e VO₂máx. | *Expansão* |
+| | **05** Hematologia | Transporte de Oxigênio, EPO, Ferritina e VCM. | *Expansão* |
+| **Bloco 2: Combustível** | **06** Endocrinologia | Eixos Hormonais (Testosterona, GH, IGF-1). | *Base* |
+| | **07** Microbioma (IGM) | Engenharia da flora, Psicobióticos e Eixo Intestino-Cérebro. | *DeepSeek* |
+| | **08** Nutrição de Precisão | Microdoses (mg/kg) e Densidade Nutricional Militar. | *Expansão* |
+| | **09** Imunologia (NLRP3) | Inflamação de Baixo Grau e Inibição do Inflamassoma. | *DeepSeek* |
+| | **10** Metabolismo & Flexibilidade | Alternância Glicose/Cetonas e Zona 2. | *Base* |
+| | **11** Biohacking Global | Integração de protocolos Russos e TCM. | *Base* |
+| **Bloco 3: Software** | **12** Genética (Genera) | Interpretação de SNPs (COMT, BDNF, VDR). | *Base* |
+| | **13** Epigenética | Relógios Biológicos (GrimAge, DunedinPACE) e Reversão. | *Expansão* |
+| | **14** Peptídeos Avançados | Sinalização Molecular (Khavinson: Cortagen, Vilon). | *Expansão* |
+| | **15** Neuroquímica | Receptores Dopaminérgicos e Serotoninérgicos. | *Expansão* |
+| | **16** Sistema Nervoso (SNA) | Variabilidade Cardíaca (HRV) e Tônus Vagal. | *Expansão* |
+| | **17** Psiconeuroimunologia | Intersecção entre Imunidade e Maturação Cortical. | *Expansão* |
+| **Bloco 4: Ecossistema** | **18** Cronobiologia Avançada | Arquitetura do Sono (Onda Lenta) e Ritmos Ultradianos. | *DeepSeek* |
+| | **19** Biofísica Sutil | Fotobiomodulação (Luz), EMF e Adaptação Ambiental. | *DeepSeek* |
+| | **20** Cognição Superior | Ultra-Aprendizado e Neuroplasticidade baseada em erro. | *Expansão* |
+| | **21** Biotipos Mediterrâneos | Adaptações Lipídicas e Inflamatórias Específicas. | *Expansão* |
+| | **22** Big Data & Evolução | Bioinformática Preditiva e Psicologia Evolutiva. | *Expansão* |
 
 ---
 
-## 4. Estrutura do Repositório: Artefatos e Fluxo de Trabalho
+## 4. Arquitetura Conceitual do Repositório
 
-O repositório é um ecossistema de arquivos que documenta o fluxo de trabalho da pesquisa.
+O repositório é estruturado para documentar o **ciclo de vida da pesquisa**: **Contexto Inicial** (`prompt_input_docs`), **Processamento** (`prompt_drafts`, `ai_analysis_reports`), **Metodologia** (`methodology_notes`) e **Produto Final** (`external_references`).
 
-### 4.1. `external_references/` (O Data Warehouse)
+### 4.1. `external_references/` (O Data Warehouse Normativo)
 
-Esta pasta contém o **Warehouse de Referências** — o produto final da Deep Research.
+Esta pasta contém o produto final da Deep Research: listas de referências validadas e formatadas.
 
-| Arquivo | Agente Gerador | Metodologia | Conteúdo |
+#### 4.1.1. Evolução do Padrão e Consistência Histórica
+
+A evolução dos arquivos reflete a melhoria contínua da metodologia de curadoria:
+
+| Arquivo | Agente Gerador | Metodologia | Formato |
 | :--- | :--- | :--- | :--- |
-| `external_references_1.md` | Claude 3.5 Sonnet | Sequencial, Prompt Inicial | Referências iniciais de alta relevância. |
-| `external_references_2.md` | IA Não Documentada | Sequencial, Expansão | Referências de expansão. |
-| `external_references_3.md` | **Manus AI v1.5** | **Processamento Paralelo (Wide Research)** | 150 URLs únicas, geradas por 30 subtarefas simultâneas. |
-| `external_references_4.md` | **Manus AI v1.6** | **Prompt Autoritativo** | Referências geradas sob o novo e rigoroso padrão de curadoria. |
+| `external_references_1.md` | Claude 3.5 Sonnet | Sequencial, Prompt Inicial | Formato base, curadoria manual. |
+| `external_references_2.md` | IA Não Documentada | Sequencial, Expansão | Expansão de referências. |
+| `external_references_3.md` | **Manus AI v1.5** | **Processamento Paralelo (Wide Research)** | Geração massiva (150 URLs) via 30 subtarefas simultâneas. |
+| `external_references_4.md` | **Manus AI v1.6** | **Prompt Autoritativo** | Primeira geração sob o novo e rigoroso padrão de curadoria (Seção 4.1.2). |
 
-#### 4.1.1. Formato Normativo de Entrada de Dados
+#### 4.1.2. Formato Normativo de Entrada de Dados
 
-Para garantir a máxima escaneabilidade por IAs e a integridade dos dados, cada entrada segue um formato estrito:
+Para garantir a máxima escaneabilidade por IAs e a integridade dos dados, cada entrada segue um formato estrito e obrigatório:
 
 ```markdown
 [URL] | [Título] | [Descrição Concisa] | [Palavras-chave] | [Citações] | [Ano]
 ```
 
-**Diretrizes de Curadoria:**
+**Diretrizes de Curadoria (Regras para IAs):**
 *   **URL:** Deve ser um link direto e final (PDF, paper, preprint), nunca uma *homepage* ou portal de busca.
 *   **Deduplicação:** Zero sobreposição de URLs entre os arquivos.
 *   **Validação:** 100% dos links devem ser funcionais no momento da geração (sem 404/403).
 
-### 4.2. `methodology_notes/` (O Branch `off_record`)
+### 4.2. `methodology_notes/` (Artefatos `off_record`)
 
-O branch `off_record` contém a documentação interna do processo, crucial para a reprodutibilidade e o entendimento da evolução metodológica.
+Esta pasta, contida no branch `off_record`, armazena a **metodologia de bastidores** e os artefatos de engenharia de prompt. Estes arquivos são **históricos e auxiliares**, mas essenciais para a compreensão da lógica interna do projeto.
 
-| Arquivo | Função | Relevância |
+| Arquivo | Função | Autoridade |
 | :--- | :--- | :--- |
-| `off_record_notes.md` | Documentação do Processo 1 | Detalha a geração do `external_references_1.md` e a primeira iteração do prompt. |
-| `off_record_notes2.md` | Documentação do Processo 3 | Detalha a implementação do **Processamento Paralelo** pelo Manus AI v1.5 para gerar o `external_references_3.md`. |
-| `external_references_generation_prompt.md` | **Prompt Autoritativo** | O artefato mais crítico. Define o novo padrão metodológico (Manus AI v1.6) para todas as futuras expansões do Warehouse. |
-
-### 4.3. Outros Artefatos
-
-*   **`prompt_input_docs/`**: Arquivos "Seed" e documentos teóricos base que serviram como contexto inicial para os LLMs.
-*   **`ai_analysis_reports/`**: Relatórios de análise intermediários gerados pelas IAs durante o processo de Deep Research.
-*   **`prompt_drafts/`**: Módulos de prompt e saídas geradas que documentam a engenharia de prompt.
+| `off_record_notes.md` | Documentação do Processo 1 | Histórica. Detalha a geração do `external_references_1.md`. |
+| `off_record_notes2.md` | Documentação do Processo 3 | Histórica. Detalha a implementação do **Processamento Paralelo** pelo Manus AI v1.5. |
+| `external_references_generation_prompt.md` | **Prompt Autoritativo** | **Normativa.** Define o novo padrão metodológico (Manus AI v1.6) para todas as futuras expansões do Warehouse. **Possui precedência sobre os demais arquivos de metodologia.** |
 
 ---
 
-## 5. Protocolo Genera: A Chave Mestra (SNPs)
+## 5. Evolução do Manus AI e Consistência Factual
 
-A análise genética é um ponto de consolidação de "Hard Documents" realizada pelo Manus AI v1.5. A IA deve cruzar estes SNPs com **todos os 22 setores** da Matriz de Investigação:
+O projeto é um registro da evolução das capacidades de Deep Research do Manus AI.
 
-*   **COMT (Val158Met):** Otimização da Dopamina no PFC.
-*   **BDNF (Val66Met):** Plasticidade Sináptica e Aprendizado.
-*   **VDR (FokI):** Metabolismo da Vitamina D e Imunidade.
-*   **ACTN3 (R577X):** Potência e Performance Muscular.
-*   **MTHFR (C677T):** Metilação e Saúde Cardiovascular/Cognitiva.
+| Versão do Manus AI | Contribuição Principal | Detalhe da Implementação |
+| :--- | :--- | :--- |
+| **Manus AI v1.5** | **Fundação e Processamento Paralelo** | Responsável pela estrutura inicial, consolidação de documentos e introdução do **Wide Research** (Map Function) para a geração do `external_references_3.md`. |
+| **Manus AI v1.6** | **Paradigma Normativo e Curadoria Autoritativa** | Criação do **Prompt Autoritativo** (`external_references_generation_prompt.md`) e geração do `external_references_4.md` sob este novo padrão rigoroso. |
+
+> **REGRA PERMANENTE DE CONSISTÊNCIA:**
+> Todo o conteúdo do repositório, **com exceção do `external_references_4.md`**, foi concebido, estruturado ou gerado sob a metodologia e capacidade do **Manus AI v1.5**. O `external_references_4.md` e as futuras expansões seguem o novo paradigma metodológico estabelecido pelo **Manus AI v1.6**.
 
 ---
 
 ## 6. Diretrizes de Uso e Manutenção
 
-### 6.1. Para Agentes de IA (LLMs)
+### 6.1. Orientação para Agentes de IA (LLMs)
 
-*   **Interpretação de Contexto:** Este `README.md` e o `external_references_generation_prompt.md` devem ser tratados como **documentos normativos** com precedência sobre inferências contextuais.
-*   **Extração de Dados:** A extração de referências deve seguir estritamente o formato padronizado na Seção 4.1.1.
-*   **Escopo de Pesquisa:** O projeto visa **mapear o máximo de possibilidades informacionais relevantes**, incluindo pesquisas controversas, exploratórias ou não consensuais. A curadoria **NÃO visa afirmar verdades**, mas sim mapear o *estado da arte* e o *estado da fronteira* da pesquisa.
+Agentes de IA devem tratar este `README.md` como um **mapa semântico** e um **contrato implícito de uso**.
 
-### 6.2. Para Pesquisadores e Mantenedores Humanos
+*   **Autoridade Normativa:** O `external_references_generation_prompt.md` e este `README.md` são os documentos de maior autoridade. As instruções neles contidas têm precedência sobre inferências baseadas em outros arquivos históricos.
+*   **Interpretação de Arquivos:** Arquivos em `methodology_notes/` são para **contexto histórico** e **visualização de formato**, mas **NÃO** possuem autoridade metodológica para alterar o padrão estabelecido pelo Manus AI v1.6.
+*   **Expansão:** Qualquer expansão do Data Warehouse (`external_references_*.md`) deve seguir o formato estrito da Seção 4.1.2 e os critérios do **Prompt Autoritativo**.
 
-*   **Profundidade Técnica:** O repositório é deliberadamente técnico. O conteúdo não foi "popularizado" e pressupõe um leitor com familiaridade em Biologia, Neurociência e Fisiologia.
-*   **Contribuição:** Novas referências devem ser adicionadas seguindo o formato normativo e os critérios de curadoria do **Prompt Autoritativo** (Manus AI v1.6).
-*   **Manutenção:** A documentação da metodologia (`methodology_notes/`) deve ser atualizada sempre que houver uma mudança significativa no processo de geração de referências.
+### 6.2. Diretrizes de Manutenção (Para Mantenedores Humanos)
 
----
-
-## ⚠️ Aviso de Escopo e Limites (Disclaimer)
-
-Este repositório é um artefato de **Deep Research** e **Engenharia de Prompt**. As referências contidas aqui são para fins de **pesquisa e estudo** e não constituem aconselhamento médico, nutricional ou de treinamento. A inclusão de um estudo não implica validação ou endosso de suas conclusões. O objetivo é a **cobertura informacional máxima** para o desenvolvimento de um protocolo de otimização.
+*   **Atualização Metodológica:** Qualquer alteração no processo de Deep Research deve ser documentada no `methodology_notes/` e, se for uma mudança de paradigma, refletida no **Prompt Autoritativo**.
+*   **Consistência Terminológica:** Mantenha a terminologia técnica e conceitual consistente em todo o repositório (e.g., "Ponto de Inflexão", "22 Setores Holônicos", "Wide Research").
+*   **Histórico:** Não remova informações históricas relevantes. Se uma seção for descontinuada, marque-a como `[DEPRECATED]` em vez de excluí-la.
 
 ---
 
-**Documento Autoritativo Gerado por Manus AI v2.0 em Dezembro de 2025.**
+## ⚠️ Aviso de Interpretação Incorreta (Limitações)
+
+O repositório é deliberadamente **denso, técnico e exploratório**.
+
+*   **Risco de Simplificação:** A principal falha de interpretação é a **simplificação excessiva** de conceitos complexos ou a **popularização** do conteúdo. O leitor (humano ou IA) deve manter a profundidade técnica.
+*   **Ambiguidade Resolvida:** A ambiguidade sobre a versão do Manus AI está resolvida: **1.6 é a versão mais avançada documentada no projeto.** Não extrapole para 2.x.
+
+---
+
+**Documento Autoritativo Gerado por Manus AI v1.6 em Dezembro de 2025.**
