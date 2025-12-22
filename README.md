@@ -1,183 +1,188 @@
-# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.4)
+# 🧬 DeepRS: Protocolo Terminal Optimization (Versão Absoluta v2.3)
 
 > **O Horizonte de Eventos da Maturação Humana:** Engenharia Biológica, Deep Research e a Última Janela de Plasticidade Estrutural (23-25 Anos).
 
-![Status](https://img.shields.io/badge/Status-God_Mode_Active-red) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange) ![Sectors](https://img.shields.io/badge/Sectors-22_Coverage-blue) ![Methodology](https://img.shields.io/badge/Methodology-Triple_Verification-blueviolet) ![Depth](https://img.shields.io/badge/Depth-5_Levels_of_Analysis-yellow)
+![Status](https://img.shields.io/badge/Status-Autoritativo_v2.3-red) ![Scale](https://img.shields.io/badge/Scale-1:1_Analysis-orange) ![Sectors](https://img.shields.io/badge/Sectors-22_Holonic_Coverage-blue) ![AI-First](https://img.shields.io/badge/Design-AI--First-green)
 
 ---
 
-## 🎯 Premissa Central: A Tese do "Ponto de Inflexão Biológico"
+## 1. Visão Geral do Projeto: A Otimização Terminal
 
-Este repositório documenta a operação de **Deep Research** denominada **"Terminal Optimization"**. O projeto visa a otimização máxima (fisiológica, cognitiva e estrutural) do corpo masculino na janela crítica dos **23 aos 25 anos**.
+O repositório **DeepRS** (Deep Research System) é um artefato de **Sistemas de Ciência de Dados** que documenta uma operação de pesquisa massiva e automatizada denominada **"Terminal Optimization"**.
 
-A tese central, cunhada como o **"Horizonte de Eventos Biológico"**, postula que esta faixa etária representa o **último período de plasticidade estrutural significativa** antes da consolidação biológica definitiva. O foco é a intervenção ativa e exaustiva nos **Eventos Biológicos Terminais** que se encerram neste período, transformando o potencial genético em realidade estrutural.
+### 1.1. Objetivo Explícito
 
-### Eventos Biológicos Terminais (23-25 Anos)
+O objetivo central é a **otimização fisiológica, cognitiva e estrutural** do corpo masculino na janela crítica dos **23 aos 25 anos**.
 
-| Sistema | Evento Terminal | Implicação para Otimização |
+A premissa biológica é que esta faixa etária representa o **"Ponto de Inflexão"** final, a última oportunidade de **intervenção estrutural** antes da consolidação definitiva de sistemas biológicos chave (e.g., fechamento epifisário, mielinização final do Córtex Pré-Frontal - PFC). O projeto visa compilar um **"Manual de Operações" em escala 1:1** para "automatizar a sorte" biológica.
+
+### 1.2. Princípios de Design e Curadoria
+
+O projeto é construído sob a filosofia **AI-First**, onde a clareza semântica e a consistência terminológica são prioridades para garantir que agentes de IA possam interagir com o repositório como uma **Fonte de Verdade (Source of Truth)**.
+
+| Princípio | Descrição | Relevância para IAs |
 | :--- | :--- | :--- |
-| **Esquelético** | Fechamento das últimas epífises (clavícula medial, crista ilíaca). | Última janela para maximizar o **Pico de Massa Óssea (PBM)** através de carga axial e suplementação direcionada. |
-| **Neural** | Mielinização final do Córtex Pré-Frontal (PFC) e consolidação da plasticidade GABAérgica. | Última oportunidade para otimizar a velocidade de processamento neural, o controle executivo e a resiliência cognitiva. |
-| **Tecido Conectivo** | Consolidação da Matriz Extracelular (MEC) e da Fáscia. | Última janela para otimizar a hidratação, a piezoeletricidade e a elasticidade fascial, prevenindo a calcificação precoce. |
-
-O objetivo final é a criação de um **"Manual de Operações" em escala 1:1** para "automatizar a sorte" biológica, fornecendo um protocolo de intervenção cirúrgica e precisa.
+| **Análise 1:1** | Todo o conteúdo (prompts, documentos-semente, relatórios) é lido e interpretado integralmente, sem resumos ou inferências livres. | Garante a fidelidade do contexto e a ausência de perda de dados. |
+| **Exaustão Semântica** | Utilização de múltiplos modelos de IA especializados para varrer a literatura global e garantir a máxima cobertura informacional. | Mitiga o viés de um único modelo e aumenta a profundidade da pesquisa. |
+| **Tríplice Verificação** | Busca ativa por fontes em três grandes escolas de pensamento: **Ocidente** (PubMed, Nature), **Rússia/URSS** (Literatura Cinzenta, Peptídeos) e **Ásia/TCM** (Medicina Tradicional Chinesa). | Assegura uma visão holística e não-convencional da fisiologia. |
+| **Estrutura Normativa** | O formato de saída dos dados (`external_references`) é rigorosamente padronizado para facilitar o *parsing* e a ingestão automatizada. | Essencial para a extração de dados limpos e a automação de *pipelines* de pesquisa. |
 
 ---
 
-## 🧠 Metodologia: Ciência de Sistemas e Tríplice Verificação (GOD MODE)
+## 2. Metodologia: Orquestração Multi-Modelo e Evolução do Manus AI
 
-O DeepRS emprega uma **Ciência de Sistemas** orquestrada por múltiplos Large Language Models (LLMs) para garantir a **exaustão semântica** e a **Tríplice Verificação** das fontes. Esta metodologia é detalhada no **Documento Hard** (`doc_hard_prompt_upgrade_v2.md`).
+O projeto é um estudo de caso em **Orquestração de LLMs**, onde cada agente possui uma função especializada. O **Manus AI** atua como o motor de processamento avançado e o orquestrador principal.
 
-### Orquestração Multi-IA e Funções
+### 2.1. Colaboração Multi-Modelo
 
-| Agente / IA | Função no Ecossistema DeepRS | Documentos Chave Gerados |
-| :--- | :--- | :--- |
-| **Gemini 3.0 Pro** | Motor inicial e estruturação lógica macro. Organização de conhecimento Ocidental padrão. | *Documentos de Rascunho Iniciais* |
-| **Manus AI (Evolutivo)** | **[MOTOR PRINCIPAL]** Consolidação de "Hard Documents", refinamento semântico e Data-Warehouse. **Evolução:** v1.5 (Fundação) ➔ v1.6 (Atual). | `doc_hard_prompt_upgrade_v2.md`, `external_references_2/3/4.md` |
-| **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras: Literatura Cinzenta Russa, Chinesa, Bases Militares Soviéticas. | `report_claude_analysis_v1/v2.md`, `external_references_1.md` |
-| **DeepSeek v3.2** | Expansão lateral criativa: Microbioma, Fáscia, Biofísica. Conexões interdisciplinares não-óbvias. | `generated_prompt_deep_rs_v2.md` (Módulo de Expansão) |
+| Agente / IA | Função no Ecossistema DeepRS |
+| :--- | :--- |
+| **Gemini 3.0 Pro** | Motor inicial e estruturação lógica macro. |
+| **Manus AI** | Consolidação de "Hard Documents", refinamento semântico, validação de SNPs e **Processamento Paralelo (Wide Research)**. |
+| **Claude 3.5 Sonnet** | "Batedor" de fontes obscuras (Literatura Cinzenta Russa, Chinesa, Bases Militares). |
+| **DeepSeek v3.2** | Expansão lateral criativa (Microbioma, Fáscia, Biofísica). |
 
-### Protocolo de Tríplice Verificação
+### 2.2. Evolução e Regra Permanente do Manus AI
 
-Para cada setor, a pesquisa é validada em três tradições científicas distintas, garantindo a robustez da informação:
+A evolução do Manus AI no projeto define a metodologia de manutenção e expansão do repositório.
 
-1.  **OCIDENTE (Base PubMed/Nature):** Pesquisa *peer-reviewed* convencional, RCTs e Meta-análises.
-2.  **RÚSSIA/URSS (Literatura Cinzenta Soviética):** Protocolos militares (Spetsnaz/Cosmonautas), Peptídeos bioreguladores Khavinson (Cortagen, Vilon), e ciência esportiva de 1970-1990.
-3.  **ÁSIA/TCM (Medicina Tradicional Chinesa):** Conceitos de **Jing** (Essência), **Yang Sheng** (Nutrição da Vida) e pesquisa moderna sobre compostos TCM.
+| Versão | Contribuição Principal | Detalhe da Implementação | Arquivos Relacionados |
+| :--- | :--- | :--- | :--- |
+| **Manus AI v1.5** | **Fundação e Processamento Paralelo** | Responsável pela estrutura inicial, consolidação de documentos e introdução do **Wide Research** (30 subtarefas simultâneas) para a geração do `external_references_3.md`. | `off_record_notes.md`, `off_record_notes2.md`, `external_references_1.md`, `external_references_2.md`, `external_references_3.md` |
+| **Manus AI v1.6** | **Paradigma Normativo** | Criação do **Prompt Autoritativo** que estabelece os critérios de curadoria mais rigorosos (validação de links, escopo expandido) para a série `external_references_*.md`. | `external_references_generation_prompt.md`, `external_references_4.md` |
+| **Manus AI v2.0** | **Fiscalização e Autoridade** | Responsável pela análise 1:1 e pela criação deste `README.md` autoritativo, consolidando a história e a metodologia do projeto. | Este `README.md` |
 
-### 5 Níveis de Profundidade de Análise (Mandatório)
-
-A IA é instruída a analisar cada descoberta em 5 níveis hierárquicos, garantindo a rastreabilidade do macro ao quantum:
-
-| Nível | Foco de Análise | Exemplo de Questão |
-| :--- | :--- | :--- |
-| **1 (Macro)** | Fisiologia geral e normas internacionais. | Qual o *range* de Testosterona para um homem de 24 anos? |
-| **2 (Meso)** | Variações baseadas em ancestralidade (ex: Mediterrânea). | Como o biotipo Mediterrâneo afeta o metabolismo lipídico (ApoB/ApoA1)? |
-| **3 (Micro)** | Genes, polimorfismos e epigenética. | Como o SNP **COMT (Val158Met)** afeta a dopamina no PFC? |
-| **4 (Nano)** | Bioquímica intracelular, sinalização molecular e receptores. | Qual o mecanismo de inibição do **NLRP3** pelo **Beta-Hidroxibutirato (BHB)**? |
-| **5 (Quantum/Bioinformática)** | Predições teóricas, machine learning e simulações proteômicas. | Qual a predição estrutural do peptídeo **Cortagen** e sua interação com o DNA? |
+> **REGRA PERMANENTE DE MANUTENÇÃO:**
+> Todo o conteúdo do repositório, **com exceção do `external_references_4.md`**, foi concebido, estruturado ou gerado sob a metodologia e capacidade do **Manus AI v1.5**. O `external_references_4.md` e as futuras expansões seguem o novo paradigma metodológico estabelecido pelo **Manus AI v1.6**.
 
 ---
 
-## 🔬 Matriz de Investigação: Os 22 Setores Holônicos (Deep Dive)
+## 3. Matriz de Investigação: Os 22 Setores Holônicos
 
-O protocolo cobre a totalidade da fisiologia humana através de **22 Setores de Investigação**, detalhados abaixo:
+O protocolo cobre a totalidade da fisiologia humana através de **22 Setores de Investigação**, divididos em 4 blocos funcionais.
 
-### 🏛️ Bloco I: Estrutura Física & Fundação (O Hardware)
-
-| # | Setor | Foco Principal | Detalhe da Janela Crítica (23-25 Anos) |
+### 🏛️ Bloco 1: Estrutura Física & Fundação (O Hardware)
+Foco na intervenção estrutural tardia (23-25 anos).
+| # | Setor | Foco Principal | Origem Metodológica |
 |:---|:---|:---|:---|
-| **01** | **Neuro-Arquitetura Final** | Mielinização do PFC & Plasticidade Inibitória (GABA). | Otimização da velocidade neural e do controle executivo através de treino cognitivo (N-Back) e modulação GABAérgica (psicobióticos). |
-| **02** | **Esqueleto (Last Stand)** | Fusão da Clavícula/Crista Ilíaca e Densidade (PBM). | Protocolos de carga axial (soviéticos) e suplementação (Vitamina D, K2, Boron) para maximizar a densidade óssea antes do fechamento epifisário. |
-| **03** | **Fáscia & Tensegridade** | Matriz Extracelular e Piezoeletricidade Fascial. | Otimização da hidratação e elasticidade fascial através de movimentos tridimensionais e terapia de indução miofascial auto-aplicada. |
-| **04** | **Cardiovascular** | Expansão Cardíaca ("Coração de Atleta") e VO₂máx. | Indução de remodelamento cardíaco excêntrico e otimização do VO₂máx através de Treinamento Polarizado (80/20) ajustado para a idade. |
-| **05** | **Hematologia** | Transporte de Oxigênio, EPO, Ferritina e VCM. | Otimização do transporte de oxigênio através de protocolos de Hipóxia Intermitente Normobárica (HIN) e técnicas de CO₂ Tolerance (Buteyko). |
+| **01** | **Neuro-Arquitetura Final** | Mielinização do PFC & Plasticidade Inibitória (GABA). | *Base* |
+| **02** | **Esqueleto (Last Stand)** | Fusão da Clavícula/Crista Ilíaca e Densidade (PBM). | *Base* |
+| **03** | **Fáscia & Tensegridade** | Matriz Extracelular e Piezoeletricidade Fascial. | *DeepSeek* |
+| **04** | **Cardiovascular** | Expansão Cardíaca ("Coração de Atleta") e VO₂máx. | *Expansão* |
+| **05** | **Hematologia** | Transporte de Oxigênio, EPO, Ferritina e VCM. | *Expansão* |
 
-### ⚡ Bloco II: Energia, Imunidade & Metabolismo (O Combustível)
-
-| # | Setor | Foco Principal | Detalhe da Janela Crítica (23-25 Anos) |
+### ⚡ Bloco 2: Energia, Imunidade & Metabolismo (O Combustível)
+Foco na otimização da eficiência energética e defesa biológica.
+| # | Setor | Foco Principal | Origem Metodológica |
 |:---|:---|:---|:---|
-| **06** | **Endocrinologia** | Eixos Hormonais (Testosterona, GH, IGF-1). | Definição de *Optimal Range* (vs. Reference Range) para hormônios e otimização dos pulsos de GH via Biohacking Circadiano. |
-| **07** | **Microbioma (IGM)** | Engenharia da flora, Psicobióticos e Eixo Intestino-Cérebro. | Protocolos de Amido Resistente (RS3) para produção de Butirato e uso de Psicobióticos de Segunda Geração (L. rhamnosus JB-1). |
-| **08** | **Nutrição de Precisão** | Microdoses (mg/kg) e Densidade Nutricional Militar. | Definição de microdoses ideais de nutrientes (Tiamina, Magnésio) e análise comparativa com Rações Nutricionais Militares Soviéticas. |
-| **09** | **Imunologia (NLRP3)** | Inflamação de Baixo Grau e Inibição do Inflamassoma. | Inibição do inflamassoma **NLRP3** através de Beta-Hidroxibutirato (BHB) e nutracêuticos (Glycyrrhiza Glabra). |
-| **10** | **Metabolismo & Flexibilidade** | Alternância Glicose/Cetonas e Treinamento Zona 2. | Indução de Flexibilidade Metabólica através de cetose cíclica e Treinamento de Zona 2 para máxima eficiência mitocondrial. |
-| **11** | **Biohacking Global** | Integração de protocolos Russos e TCM. | Síntese de práticas não-convencionais (ex: Khavinson, Yang Sheng) com validação científica moderna. |
+| **06** | **Endocrinologia** | Eixos Hormonais (Testosterona, GH, IGF-1). | *Base* |
+| **07** | **Microbioma (IGM)** | Engenharia da flora, Psicobióticos e Eixo Intestino-Cérebro. | *DeepSeek* |
+| **08** | **Nutrição de Precisão** | Microdoses (mg/kg) e Densidade Nutricional Militar. | *Expansão* |
+| **09** | **Imunologia (NLRP3)** | Inflamação de Baixo Grau e Inibição do Inflamassoma. | *DeepSeek* |
+| **10** | **Metabolismo & Flexibilidade** | Alternância Glicose/Cetonas e Zona 2. | *Base* |
+| **11** | **Biohacking Global** | Integração de protocolos Russos e TCM. | *Base* |
 
-### 🧬 Bloco III: Código, Sinalização & Controle (O Software)
-
-| # | Setor | Foco Principal | Detalhe da Janela Crítica (23-25 Anos) |
+### 🧬 Bloco 3: Código, Sinalização & Controle (O Software)
+Foco na modulação genética, epigenética e neuroquímica.
+| # | Setor | Foco Principal | Origem Metodológica |
 |:---|:---|:---|:---|
-| **12** | **Genética (Genera)** | Interpretação de SNPs (COMT, BDNF, VDR). | Cruzamento dos SNPs críticos com os 22 setores para gerar um manual de operações 1:1 personalizado. |
-| **13** | **Epigenética** | Relógios Biológicos (GrimAge, DunedinPACE) e Reversão. | Intervenções de estilo de vida para desacelerar o *pace* de envelhecimento biológico (DunedinPACE) e reverter a idade epigenética. |
-| **14** | **Peptídeos Avançados** | Sinalização Molecular (Khavinson: Cortagen, Vilon, Vladonix). | Análise do mecanismo molecular (Nível 4) dos peptídeos bioreguladores e sua regulação epigenética. |
-| **15** | **Neuroquímica** | Receptores Dopaminérgicos e Serotoninérgicos. | Otimização da densidade e sensibilidade dos receptores, especialmente em portadores do alelo Met/Met do COMT. |
-| **16** | **Sistema Nervoso (SNA)** | Variabilidade Cardíaca (HRV) e Tônus Vagal. | Estabelecimento do *range* ideal de HRV e protocolos vagais para otimizar a resiliência ao estresse. |
-| **17** | **Psiconeuroimunologia** | Intersecção entre Imunidade e Maturação Cortical. | Estudo da influência do estresse crônico (cortisol) na mielinização e na ativação do inflamassoma. |
+| **12** | **Genética (Genera)** | Interpretação de SNPs (COMT, BDNF, VDR). | *Base* |
+| **13** | **Epigenética** | Relógios Biológicos (GrimAge, DunedinPACE) e Reversão. | *Expansão* |
+| **14** | **Peptídeos Avançados** | Sinalização Molecular (Khavinson: Cortagen, Vilon). | *Expansão* |
+| **15** | **Neuroquímica** | Receptores Dopaminérgicos e Serotoninérgicos. | *Expansão* |
+| **16** | **Sistema Nervoso (SNA)** | Variabilidade Cardíaca (HRV) e Tônus Vagal. | *Expansão* |
+| **17** | **Psiconeuroimunologia** | Intersecção entre Imunidade e Maturação Cortical. | *Expansão* |
 
-### 🌌 Bloco IV: Dados, Ambiente & Biofísica (O Ecossistema)
-
-| # | Setor | Foco Principal | Detalhe da Janela Crítica (23-25 Anos) |
+### 🌌 Bloco 4: Dados, Ambiente & Biofísica (O Ecossistema)
+Foco na interação do organismo com o ambiente e a otimização de dados.
+| # | Setor | Foco Principal | Origem Metodológica |
 |:---|:---|:---|:---|
-| **18** | **Cronobiologia Avançada** | Arquitetura do Sono (Onda Lenta) e Ritmos Ultradianos. | Manipulação da arquitetura do sono via Estimulação Sonora de Onda Lenta Sincronizada (SOXL) e termorregulação dinâmica. |
-| **19** | **Biofísica Sutil** | Fotobiomodulação (Luz), EMF e Adaptação Ambiental. | Protocolos de Terapia com Luz Vermelha/Infravermelha Próxima (RL/NIR) para densidade óssea e função cognitiva (tPBM). |
-| **20** | **Cognição Superior** | Ultra-Aprendizado e Neuroplasticidade baseada em erro. | Protocolos de *shadowing* linguístico e treinamento de memória de trabalho para maximizar a plasticidade remanescente. |
-| **21** | **Biotipos Mediterrâneos** | Adaptações Lipídicas e Inflamatórias Específicas (ApoB/ApoA1). | Análise do metabolismo lipídico único e da frequência de SNPs (ACTN3, MTHFR) em populações Mediterrâneas. |
-| **22** | **Big Data & Evolução** | Bioinformática Preditiva e Psicologia Evolutiva. | Uso de dados genômicos abertos (OpenSNP, UK Biobank) para correlações preditivas e modelagem molecular. |
+| **18** | **Cronobiologia Avançada** | Arquitetura do Sono (Onda Lenta) e Ritmos Ultradianos. | *DeepSeek* |
+| **19** | **Biofísica Sutil** | Fotobiomodulação (Luz), EMF e Adaptação Ambiental. | *DeepSeek* |
+| **20** | **Cognição Superior** | Ultra-Aprendizado e Neuroplasticidade baseada em erro. | *Expansão* |
+| **21** | **Biotipos Mediterrâneos** | Adaptações Lipídicas e Inflamatórias Específicas. | *Expansão* |
+| **22** | **Big Data & Evolução** | Bioinformática Preditiva e Psicologia Evolutiva. | *Expansão* |
 
 ---
 
-## 🧬 Protocolo Genera: A Chave Mestra (SNPs Críticos)
+## 4. Estrutura do Repositório: Artefatos e Fluxo de Trabalho
 
-O **Protocolo Genera** exige uma análise crítica e preditiva dos seguintes Polimorfismos de Nucleotídeo Único (SNPs), cruzando seu impacto molecular com todos os 22 setores:
+O repositório é um ecossistema de arquivos que documenta o fluxo de trabalho da pesquisa.
 
-| SNP | Função Primária | Impacto Crítico na Janela 23-25 Anos |
+### 4.1. `external_references/` (O Data Warehouse)
+
+Esta pasta contém o **Warehouse de Referências** — o produto final da Deep Research.
+
+| Arquivo | Agente Gerador | Metodologia | Conteúdo |
+| :--- | :--- | :--- | :--- |
+| `external_references_1.md` | Claude 3.5 Sonnet | Sequencial, Prompt Inicial | Referências iniciais de alta relevância. |
+| `external_references_2.md` | IA Não Documentada | Sequencial, Expansão | Referências de expansão. |
+| `external_references_3.md` | **Manus AI v1.5** | **Processamento Paralelo (Wide Research)** | 150 URLs únicas, geradas por 30 subtarefas simultâneas. |
+| `external_references_4.md` | **Manus AI v1.6** | **Prompt Autoritativo** | Referências geradas sob o novo e rigoroso padrão de curadoria. |
+
+#### 4.1.1. Formato Normativo de Entrada de Dados
+
+Para garantir a máxima escaneabilidade por IAs e a integridade dos dados, cada entrada segue um formato estrito:
+
+```markdown
+[URL] | [Título] | [Descrição Concisa] | [Palavras-chave] | [Citações] | [Ano]
+```
+
+**Diretrizes de Curadoria:**
+*   **URL:** Deve ser um link direto e final (PDF, paper, preprint), nunca uma *homepage* ou portal de busca.
+*   **Deduplicação:** Zero sobreposição de URLs entre os arquivos.
+*   **Validação:** 100% dos links devem ser funcionais no momento da geração (sem 404/403).
+
+### 4.2. `methodology_notes/` (O Branch `off_record`)
+
+O branch `off_record` contém a documentação interna do processo, crucial para a reprodutibilidade e o entendimento da evolução metodológica.
+
+| Arquivo | Função | Relevância |
 | :--- | :--- | :--- |
-| **COMT (Val158Met)** | Degradação de Dopamina no PFC. | Determina a resiliência cognitiva sob estresse e a necessidade de otimização dopaminérgica. |
-| **BDNF (Val66Met)** | Neuroplasticidade e "Rewire" neural. | Afeta a capacidade de aprendizado intensivo e a resposta adaptativa ao exercício físico. |
-| **VDR (FokI, TaqI)** | Sensibilidade à Vitamina D. | Crucial para a Densidade Óssea (PBM) e para a regulação da Testosterona. |
-| **ACTN3 (R577X)** | Tipo de fibra muscular. | Orienta o protocolo de treinamento de força para explosão ou resistência. |
-| **MTHFR** | Eficiência do ciclo de metilação. | Impacta a saúde cardiovascular e neural, exigindo otimização da suplementação de folato. |
-| **CLOCK/PER2** | Cronotipo e alinhamento circadiano. | Define o melhor horário para Treinamento de Zona 2, sono e otimização hormonal. |
-| **IL6/TNF-α** | Inflamação de baixo grau. | Predispõe à aceleração do envelhecimento biológico (GrimAge) e orienta a estratégia anti-inflamatória (NLRP3). |
+| `off_record_notes.md` | Documentação do Processo 1 | Detalha a geração do `external_references_1.md` e a primeira iteração do prompt. |
+| `off_record_notes2.md` | Documentação do Processo 3 | Detalha a implementação do **Processamento Paralelo** pelo Manus AI v1.5 para gerar o `external_references_3.md`. |
+| `external_references_generation_prompt.md` | **Prompt Autoritativo** | O artefato mais crítico. Define o novo padrão metodológico (Manus AI v1.6) para todas as futuras expansões do Warehouse. |
+
+### 4.3. Outros Artefatos
+
+*   **`prompt_input_docs/`**: Arquivos "Seed" e documentos teóricos base que serviram como contexto inicial para os LLMs.
+*   **`ai_analysis_reports/`**: Relatórios de análise intermediários gerados pelas IAs durante o processo de Deep Research.
+*   **`prompt_drafts/`**: Módulos de prompt e saídas geradas que documentam a engenharia de prompt.
 
 ---
 
-## 📜 Linhagem de Geração e Versionamento dos Agentes
+## 5. Protocolo Genera: A Chave Mestra (SNPs)
 
-Este repositório é um organismo vivo, evoluindo conforme a atualização dos modelos de IA utilizados. Abaixo, detalha-se a **Cronologia de Geração**, especificando qual versão de arquivo foi gerada por qual agente em cada temporada do projeto.
+A análise genética é um ponto de consolidação de "Hard Documents" realizada pelo Manus AI v1.5. A IA deve cruzar estes SNPs com **todos os 22 setores** da Matriz de Investigação:
 
-> **Política de Versionamento:** A partir da Temporada III, todas as contribuições identificam explicitamente a versão do modelo (ex: v1.6, v2.0) para garantir a rastreabilidade histórica e técnica dos dados.
-
-### 1. Temporada I: Fundação e Reconhecimento (v1.0 - v2.0)
-*Foco: Mapeamento inicial, literatura cinzenta básica e estruturação.*
-
-| Arquivo | Agente Gerador (Versão) | Função Específica |
-| :--- | :--- | :--- |
-| `report_claude_analysis_v1.md` | **Claude 3.5 Sonnet** | Análise inicial de lacunas e fontes russas. |
-| `report_claude_analysis_v2.md` | **Claude 3.5 Sonnet** | Refinamento da tese "Horizonte de Eventos". |
-| `external_references_1.md` | **Claude 3.5 Sonnet** | Primeiro warehouse de referências (94 URLs). |
-| `off_record_notes.md` | **Claude 3.5 Sonnet** | Metodologia de busca inicial. |
-
-### 2. Temporada II: Aprofundamento e Consolidação (v2.1 - v2.2)
-*Foco: Criação do "Documento Hard", expansão lateral e estruturação de dados massiva.*
-
-| Arquivo | Agente Gerador (Versão) | Função Específica |
-| :--- | :--- | :--- |
-| `doc_hard_prompt_upgrade_v2.md` | **Manus AI 1.5** | Consolidação do Super Prompt e Lógica "God Mode". |
-| `external_references_2.md` | **Manus AI 1.5** | Warehouse focado em Neurobiologia e Ossos. *(Atualizado de .txt para .md)* |
-| `external_references_3.md` | **Manus AI 1.5** | Warehouse focado em Processamento Paralelo. |
-| `generated_prompt_deep_rs_v2.md` | **DeepSeek v3.2** | Módulo de Expansão (Microbioma, Fáscia). |
-| `off_record_notes2.md` | **Manus AI 1.5** | Metodologia de geração do Warehouse 3. |
-
-### 3. Temporada III: Refinamento Absoluto e Expansão (v2.3 - Atual)
-*Foco: Atualização do Core da IA, revisão estrutural e novas fronteiras de pesquisa.*
-
-| Arquivo | Agente Gerador (Versão) | Função Específica |
-| :--- | :--- | :--- |
-| `external_references_4.md` | **Manus AI 1.6** | Warehouse de referências expandidas (Nova Adição). |
-| `README.md` (Atual) | **Manus AI 1.6 / Gemini 3.0** | Estruturação semântica, versionamento e manutenção. |
+*   **COMT (Val158Met):** Otimização da Dopamina no PFC.
+*   **BDNF (Val66Met):** Plasticidade Sináptica e Aprendizado.
+*   **VDR (FokI):** Metabolismo da Vitamina D e Imunidade.
+*   **ACTN3 (R577X):** Potência e Performance Muscular.
+*   **MTHFR (C677T):** Metilação e Saúde Cardiovascular/Cognitiva.
 
 ---
 
-## 🚀 Como Usar Este Repositório para Deep Research
+## 6. Diretrizes de Uso e Manutenção
 
-Para obter os melhores resultados, siga este fluxo de trabalho:
+### 6.1. Para Agentes de IA (LLMs)
 
-1. **Comece pelo `README.md` (este arquivo)**: Ele serve como o índice principal e a fonte da verdade sobre a estrutura e metodologia do projeto.
-2. **Consulte a Linhagem de Geração**: Entenda a origem dos dados na tabela acima para ponderar a "idade" e o viés de cada modelo de IA utilizado.
-3. **Utilize os Documentos de Entrada**: Para um novo Deep Research, use `doc_hard_prompt_upgrade_v2.md` como o prompt base.
-4. **Consulte os Warehouses de Referências**: Utilize `external_references_1.md` a `external_references_4.md` como a base de conhecimento validada (totalmente otimizada com links ativos).
-5. **Use Manus AI 1.6 como Motor Principal**: Para garantir a análise em escala 1:1 e a exaustão semântica com a tecnologia mais recente.
+*   **Interpretação de Contexto:** Este `README.md` e o `external_references_generation_prompt.md` devem ser tratados como **documentos normativos** com precedência sobre inferências contextuais.
+*   **Extração de Dados:** A extração de referências deve seguir estritamente o formato padronizado na Seção 4.1.1.
+*   **Escopo de Pesquisa:** O projeto visa **mapear o máximo de possibilidades informacionais relevantes**, incluindo pesquisas controversas, exploratórias ou não consensuais. A curadoria **NÃO visa afirmar verdades**, mas sim mapear o *estado da arte* e o *estado da fronteira* da pesquisa.
 
----
+### 6.2. Para Pesquisadores e Mantenedores Humanos
 
-## ⚠️ Disclaimer: A Ciência de Sistemas Aplicada
-
-**Este repositório contém informações teóricas e de pesquisa agregada por IA.** O conteúdo é o resultado de uma análise exaustiva da literatura global, mas **não substitui aconselhamento médico, diagnóstico ou tratamento**. Protocolos experimentais (ex: soviéticos) podem carecer de validação clínica ocidental padrão.
+*   **Profundidade Técnica:** O repositório é deliberadamente técnico. O conteúdo não foi "popularizado" e pressupõe um leitor com familiaridade em Biologia, Neurociência e Fisiologia.
+*   **Contribuição:** Novas referências devem ser adicionadas seguindo o formato normativo e os critérios de curadoria do **Prompt Autoritativo** (Manus AI v1.6).
+*   **Manutenção:** A documentação da metodologia (`methodology_notes/`) deve ser atualizada sempre que houver uma mudança significativa no processo de geração de referências.
 
 ---
 
-*Mantido por [@lelaebirds](https://github.com/by-lelaebirds) | Powered by Manus AI 1.6, Claude 3.5 Sonnet, DeepSeek v3.2 & Gemini 3.0 Pro.*
+## ⚠️ Aviso de Escopo e Limites (Disclaimer)
 
-*Última atualização: Dezembro 2025 | Versão: 2.4 | Status: Ativo*
+Este repositório é um artefato de **Deep Research** e **Engenharia de Prompt**. As referências contidas aqui são para fins de **pesquisa e estudo** e não constituem aconselhamento médico, nutricional ou de treinamento. A inclusão de um estudo não implica validação ou endosso de suas conclusões. O objetivo é a **cobertura informacional máxima** para o desenvolvimento de um protocolo de otimização.
+
+---
+
+**Documento Autoritativo Gerado por Manus AI v2.0 em Dezembro de 2025.**
