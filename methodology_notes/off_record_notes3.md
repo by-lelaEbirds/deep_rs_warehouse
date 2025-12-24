@@ -31,7 +31,7 @@ Lelae Birds (@by-lelaEbirds)
 
 ### Requisição Original (Prompt de Geração)
 
-O `external_references_5.md` foi gerado a partir do seguinte prompt, que estabeleceu os rigorosos critérios de curadoria:
+O `external_references_5.md` foi gerado a partir do seguinte prompt, fornecido integralmente pelo solicitante:
 
 ```markdown
 TÍTULO: Prompt Gerador para external_references_5.md — Ciência Aplicada à Janela Terminal 23–25 Anos
