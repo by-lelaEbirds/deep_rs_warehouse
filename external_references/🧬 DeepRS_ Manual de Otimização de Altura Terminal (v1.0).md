@@ -155,6 +155,31 @@ A otimização de altura entre 23 e 25 anos é uma **corrida contra o relógio b
 [19] Remes, T. (2005). Bone mineral density, body height, and vitamin D receptor gene polymorphism in middle-aged men. *Annals of Human Biology*.
 [20] Chen, M. (2022). Clinical Characteristics of Short-Stature Patients With Collagen Gene Mutation and the Therapeutic Response to rhGH. *Frontiers in Endocrinology*.
 
+# 🔗 Links das Referências: Manual de Otimização de Altura Terminal
+
+Abaixo estão os links diretos para as referências citadas no manual, mantendo a ordem original de [1] a [20]:
+
+1.  **[1]** https://pubmed.ncbi.nlm.nih.gov/32559612/ (Computed tomographic analysis of medial clavicular epiphyseal fusion)
+2.  **[2]** https://pubmed.ncbi.nlm.nih.gov/21315303/ (Age estimation from clavicular epiphyseal union sequencing)
+3.  **[3]** https://pmc.ncbi.nlm.nih.gov/articles/PMC7749897/ (The Clavicle Continues to Grow During Adolescence and Young Adulthood)
+4.  **[4]** https://www.mdpi.com/1422-0067/20/23/5840 (Recent insights into long bone development: central role of hedgehog signaling)
+5.  **[5]** https://insight.jci.org/articles/view/165226 (Stimulation of skeletal stem cells in the growth plate promotes longitudinal bone growth)
+6.  **[6]** https://pmc.ncbi.nlm.nih.gov/articles/PMC7354209/ (Wnt Signaling in Chondroprogenitors During Long Bone Development and Growth)
+7.  **[7]** https://www.nature.com/articles/ijos201514 (The Hedgehog signalling pathway in bone formation)
+8.  **[8]** https://www.e-cep.org/journal/view.php?number=20125555722 (Growth plate closure and therapeutic interventions)
+9.  **[9]** https://khavinson.info/assets/files/skan/2016-khavinson_lin_tarn.pdf (Short Peptides Regulate Gene Expression)
+10. **[10]** https://karger.com/hrp/article/90/6/345/166836 (Plasma C-type natriuretic peptide: emerging applications in skeletal growth)
+11. **[11]** https://karger.com/hrp/article/98/1/51/896467/C-Type-Natriuretic Peptide-Analogs-Current-and (C-Type Natriuretic Peptide Analogs)
+12. **[12]** https://pmc.ncbi.nlm.nih.gov/articles/PMC2771333/ (Relevance of collagen piezoelectricity to “Wolff's Law”)
+13. **[13]** https://www.nature.com/articles/s41598-019-49432-2 (High Impact Exercise Improves Bone Microstructure and Strength)
+14. **[14]** https://www.aimspress.com/article/10.3934/biophy.2017.3.337 (Mechanisms and applications of photobiomodulation)
+15. **[15]** https://pmc.ncbi.nlm.nih.gov/articles/PMC5778142/ (Spinal Health during Unloading and Reloading Associated with Spaceflight)
+16. **[16]** https://pubmed.ncbi.nlm.nih.gov/23916184/ (Effect of glycosaminoglycan polysulphate on the human intervertebral disc)
+17. **[17]** https://pmc.ncbi.nlm.nih.gov/articles/PMC4208652/ (Epigenetic heredity of human height)
+18. **[18]** https://www.mdpi.com/1422-0067/21/2/654 (HMGA Genes and Proteins in Development and Evolution)
+19. **[19]** https://pubmed.ncbi.nlm.nih.gov/16179274/ (Bone mineral density, body height, and vitamin D receptor gene polymorphism)
+20. **[20]** https://pmc.ncbi.nlm.nih.gov/articles/PMC8889571/ (Clinical Characteristics of Short-Stature Patients With Collagen Gene Mutation)
+
 ***
 
 **Documento Gerado por Manus AI v1.6 - Branch: Height Optimization.**
