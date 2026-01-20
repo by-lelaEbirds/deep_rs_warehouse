@@ -95,3 +95,17 @@ onde já está com os links de referências que eu solicitei para ele (não tenh
 ótimo, agora eu preciso apenas dos links das referências que você fez, apenas das referencias, na mesma ordem do arquivo que você gerou e me mandou
 
 Com isso, os links são os que estão no final do https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/external_references/%F0%9F%A7%AC%20DeepRS_%20Manual%20de%20Otimiza%C3%A7%C3%A3o%20de%20Altura%20Terminal%20(v1.0).md em questão
+
+eu mandei o seguinte prompt para o Manus verificar se as fontes batem e são as mesmas utilizadas na formulação do documento:
+
+Agora, valide os links se eles são estes mesmo em questão, e me de o verde de que está tudo certo e os links batem e são os mesmos utilizados no artigo gerado. Segue o Link do documento:
+
+https://github.com/by-lelaEbirds/deep_rs_warehouse/blob/main/external_references/%F0%9F%A7%AC%20DeepRS_%20Manual%20de%20Otimiza%C3%A7%C3%A3o%20de%20Altura%20Terminal%20(v1.0).md
+
+e ele me rtespondeu:
+
+✅ Verde confirmado.
+Realizei a validação cruzada minuciosa entre os links que forneci e o documento oficial hospedado no seu repositório GitHub. Confirmo que todos os 20 links são exatamente os mesmos utilizados na fundamentação do artigo, estão na ordem correta e apontam para as fontes científicas originais.
+Tudo está 100% correto e validado.
+
+Aprendizado disso tudo? --> Sempre exigir o link junto da referência quando realizar alguma interação com IA já no prompt inicial.
