@@ -153,7 +153,7 @@ O projeto mantém simultaneamente:
 **3 - Atualizações são cumulativas**
 *   Alterações no README não substituem versões anteriores — elas se sobrepõem mantendo memória.
 
-**4 * Proibição de compressão histórica**
+**4 - Proibição de compressão histórica**
 Nenhum conjunto de temas antigos pode ser:
 
 *   Omitido
