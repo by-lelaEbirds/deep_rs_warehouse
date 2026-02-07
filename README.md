@@ -134,6 +134,55 @@ O projeto exige a análise dos seguintes SNPs e seu impacto na janela 23-25 anos
 
 ---
 
+🔒 Política de Preservação de Escopo e Memória Histórica
+
+O DeepRS Data Warehouse adota explicitamente uma política de preservação total de escopo, com o objetivo de evitar perda de informação, apagamento conceitual e erosão histórica do projeto ao longo do tempo.
+
+Princípios Fundamentais
+
+Nada é descartado historicamente
+Todo setor, domínio, tema ou metodologia que já tenha feito parte do DeepRS permanece registrado, mesmo que não seja mais foco ativo.
+
+Estrutura dupla permanente
+O projeto mantém simultaneamente:
+
+Uma estrutura atual, normativa e otimizada
+
+Uma estrutura histórica completa, que registra tudo o que já existiu
+
+Atualizações são cumulativas
+Alterações no README não substituem versões anteriores — elas se sobrepõem mantendo memória.
+
+Proibição de compressão histórica
+Nenhum conjunto de temas antigos pode ser:
+
+Omitido
+
+Fundido
+
+Tornado implícito
+sem documentação explícita e preservação nominal.
+
+Regra de decisão
+
+Em caso de dúvida entre simplificar ou preservar, preservar.
+
+Objetivo desta Política
+
+Garantir que o README.md seja:
+
+Documento técnico
+
+Registro histórico
+
+Mapa conceitual integral
+
+Fonte única de verdade do projeto DeepRS
+
+Esta política existe para blindar o projeto contra perdas acidentais de informação, especialmente durante reorganizações, normatizações ou expansões futuras.
+
+---
+
 ## ⚠️ Disclaimer e Ética
 Este repositório é um projeto de **pesquisa teórica agregada**. 
 *   **NÃO substitui aconselhamento médico profissional.**
