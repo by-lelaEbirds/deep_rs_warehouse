@@ -138,32 +138,31 @@ O projeto exige a análise dos seguintes SNPs e seu impacto na janela 23-25 anos
 
 O DeepRS Data Warehouse adota explicitamente uma política de preservação total de escopo, com o objetivo de evitar perda de informação, apagamento conceitual e erosão histórica do projeto ao longo do tempo.
 
-**Princípios Fundamentais**
+**PRÍNCIPIOS FUNDAMENTAIS**
 
-**Nada é descartado historicamente**
+**1 - Nada é descartado historicamente**
 *   Todo setor, domínio, tema ou metodologia que já tenha feito parte do DeepRS permanece registrado, mesmo que não seja mais foco ativo.
 
-**Estrutura dupla permanente**
+**2 - Estrutura dupla permanente**
 O projeto mantém simultaneamente:
 
 *   Uma estrutura atual, normativa e otimizada
 
 *   Uma estrutura histórica completa, que registra tudo o que já existiu
 
-**Atualizações são cumulativas**
+**3 - Atualizações são cumulativas**
 *   Alterações no README não substituem versões anteriores — elas se sobrepõem mantendo memória.
 
-**Proibição de compressão histórica**
+**4 * Proibição de compressão histórica**
 Nenhum conjunto de temas antigos pode ser:
 
 *   Omitido
 
 *   Fundido
 
-**Tornado implícito**
-sem documentação explícita e preservação nominal.
+*   Tornado implícito sem documentação explícita e preservação nominal.
 
-*   Regra de decisão
+**Regra de decisão**
 
 *   Em caso de dúvida entre simplificar ou preservar, preservar.
 
@@ -177,7 +176,7 @@ Garantir que o README.md seja:
 
 *   Mapa conceitual integral
 
-Fonte única de verdade do projeto DeepRS
+*   Fonte única de verdade do projeto DeepRS
 
 Esta política existe para blindar o projeto contra perdas acidentais de informação, especialmente durante reorganizações, normatizações ou expansões futuras.
 
