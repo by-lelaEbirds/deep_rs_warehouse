@@ -4,7 +4,7 @@
 
 Este arquivo define o **prompt autoritativo** para a geração do arquivo  
 `external_references_4.md` e, a partir dele, para futuras gerações da série
-`external_references_*.md`, sempre que deliberado pelo mantenedor do repositório.
+`external_references_XXXXXX.md`, sempre que deliberado pelo mantenedor do repositório. Ou seja, este arquivo é como uma lei de padrões para futoras leituras automatizadas por IA, isso, para a criação de um arquivo específico.
 
 Ele **NÃO foi utilizado** na criação dos arquivos:
 - `external_references_1.md`
