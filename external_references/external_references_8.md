@@ -1,3 +1,4 @@
+```txt
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4522793/ | Quantification of biological aging in young adults | Longitudinal study quantifying aging processes in individuals aged 26-38, demonstrating that biological aging can be detected and tracked in early adulthood before chronic disease onset. | biological age, biomarkers, young adults, aging rate | 1199 | 2015
 https://www.nature.com/articles/s41467-024-47279-4 | Immunoglobulin G N-glycan markers of accelerated biological aging | Research identifying specific IgG N-glycan alterations as markers for accelerated biological aging and senescence-associated enzyme expression. | glycobiology, IgG N-glycans, biological age, senescence | 15 | 2024
 https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.982609/full | Heritability of the glycan clock of biological age | Study estimating the heritability of the glycan clock at 39%, highlighting the role of genetic factors in individual glycosylation patterns and aging. | glycan clock, heritability, biological age, genetics | 18 | 2022
@@ -289,3 +290,4 @@ https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(25)00044-3/full |
 https://www.the-scientist.com/aging-research-biotech-2026 | Biotech therapies for extending human health span | Transforming medicine to slow disease and extend lifespan. | biotech, lifespan, health span, disease prevention | N/A | 2026
 https://www.nia.nih.gov/research/blog/2025/09/NIA-tissue-chips-aging | NIA development of tissue chips for aging insights | Gathering new insights into physiological aging through MPS. | NIA, tissue chips, aging research, organoids | N/A | 2025
 https://med.stanford.edu/news/all-news/2024/08/biomolecular-shifts-in-aging-study | Stanford molecular and microorganism shifts at life stages | Dramatic changes in biomarkers at specific ages. | Stanford, molecular shifts, aging, microorganisms | N/A | 2024
+```
