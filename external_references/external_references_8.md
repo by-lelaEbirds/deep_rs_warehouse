@@ -1,7 +1,12 @@
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4522793/ | Quantification of biological aging in young adults | Longitudinal study quantifying aging processes in individuals aged 26-38, demonstrating that biological aging can be detected and tracked in early adulthood before chronic disease onset. | biological age, biomarkers, young adults, aging rate | 1199 | 2015
+
 https://www.nature.com/articles/s41467-024-47279-4 | Immunoglobulin G N-glycan markers of accelerated biological aging | Research identifying specific IgG N-glycan alterations as markers for accelerated biological aging and senescence-associated enzyme expression. | glycobiology, IgG N-glycans, biological age, senescence | 15 | 2024
+
 https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.982609/full | Heritability of the glycan clock of biological age | Study estimating the heritability of the glycan clock at 39%, highlighting the role of genetic factors in individual glycosylation patterns and aging. | glycan clock, heritability, biological age, genetics | 18 | 2022
+
 https://elifesciences.org/articles/85104 | Associations of four biological age markers with child and adolescent development | Analysis of biological age indicators, including telomere length and DNA methylation, during critical developmental windows in youth. | epigenetics, telomeres, biological age, development | 19 | 2023
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11494675/ | Glycan clock of ageing—analytical precision and time-dependent inter-individual variation | Technical evaluation of IgG N-glycans as stable biomarkers for biological age tracking and physiological monitoring. | glycomics, biomarkers, aging, precision medicine | N/A | 2024
 https://www.jidonline.org/article/S0022-202X(22)01877-2/fulltext | N-Glycans Are Stratum Corneum Biomarkers of Aging Skin | Identification of specific N-glycan profiles in the skin as diagnostic biomarkers for physiological aging and tissue health. | skin aging, N-glycans, stratum corneum, biomarkers | 12 | 2022
 https://www.science.org/doi/10.1126/sciadv.adg2615 | Human-specific features and developmental dynamics of brain N-glycosylation | Study mapping the archetypal brain-type N-glycosylation profile during development, crucial for understanding neural maturation. | neuroglycobiology, brain development, N-glycosylation | 20 | 2023
